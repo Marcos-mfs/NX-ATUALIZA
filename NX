@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:0, GLOBO TESTE
+#EXTINF:0, GLOBO RS TESTE
 #EXTVLCOPT:network-caching=1000
 https://live-tvg-df-06.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401627580459154216433716274940617040454583k1K6xmGU8vnbWXV4-pVhLg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
-#EXTINF:0, CULTURA
+#EXTINF:0, GLOBO MT TESTE
+#EXTVLCOPT:network-caching=1000
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-mt/playlist.m3u8?h=04016275808724989188204162749447424192454202oGPxH8VkoMegRZOpKxVtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5#EXTINF:0, CULTURA
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
 #EXTINF:0, MULTICULTURA UNIVESP
@@ -28,7 +30,7 @@ https://canal1.proxy.tokplay.com.br/videos/event6/profile2.m3u8
 https://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:0, BAND SAT
 #EXTVLCOPT:network-caching=1000
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1166581178.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 #EXTINF:0, BAND INT
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1_13/video.m3u8
