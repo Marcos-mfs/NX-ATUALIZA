@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:0, +GLOBOSAT
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-03-25.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411627601578134453129516275151670013532366_zv8sPRywx-bkYuhnBEWog&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV ANHANGUERA
 #EXTVLCOPT:network-caching=1000
 https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-go01/playlist.m3u8?h=0401627601153318980308216275147415388833273TlQ_5VX3DWCRIoVPAzjZtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
