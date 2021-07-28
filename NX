@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0, CULTURA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
+#EXTINF:0, MULTICULTURA UNIVESP
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/UNIVESP_PFZ/video.m3u8
+#EXTINF:0, SBT
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SBT_HD_13-17-13/tracks-v1a1/mono.m3u8
+#EXTINF:0, GLOBO SP
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/Glob_13131313131316_1/tracks-v1a1/mono.m3u8
+#EXTINF:0, RECORD
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/RECORD_HD_121/tracks-v1a1/mono.m3u8
+#EXTINF:0, REDE TV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8
+#EXTINF:0, REDE TV 2
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event6/profile2.m3u8
+#EXTINF:0, GAZETA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8
+#EXTINF:0, BAND SAT
+#EXTVLCOPT:network-caching=1000
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1166581178.m3u8
+#EXTINF:0, BAND INT
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1_13/video.m3u8
+#EXTINF:0, RBTV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/sictv/tracks-v1a1/mono.m3u8
+#EXTINF:0, TV TEM
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_TEM_H1385131/tracks-v1a1/mono.m3u8
+#EXTINF:0, SBT TV SOCORABA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/t1-13-17/tracks-v1a1/mono.m3u8
+#EXTINF:0, FUTURA
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event9/profile2.m3u8
+#EXTINF:0, TV BRASIL
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
+#EXTINF:0, TV BRASIL 2
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_BRASIL_2/video.m3u8
+#EXTINF:0, CNN BRASIL
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CNN_BR_OK_1_/tracks-v1a1/mono.m3u8
+#EXTINF:0, RECORD NEWS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/RECORD_NEWS/tracks-v1a1a2/mono.m3u8
+#EXTINF:0, BANDNEWS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1a2/mono.m3u8
+#EXTINF:0, BAND SPORTS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/band_spor_9913_/tracks-v1a1/mono.m3u8
+#EXTINF:0, SMITHSONIAN
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SMITHSONIAN_HD/video.m3u8
+#EXTINF:0, ARTE 1
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1a2/mono.m3u8
+#EXTINF:0, TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TERRAVIVA/tracks-v1a1a2/mono.m3u8
+#EXTINF:0, AGRO +
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0, CANAL DO BOI
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/video.m3u8
+#EXTINF:0, CAN??O NOVA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
+#EXTINF:0, APARECIDA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_APARECIDA/video.m3u8
+#EXTINF:22, NOVO TEMPO HD
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:0, COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/comed_central-tk1/tracks-v1a1/mono.m3u8
+#EXTINF:0, PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/PCBR_HD_NX_9998_123/tracks-v1a1/mono.m3u8
+#EXTINF:0, MTV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
+#EXTINF:0, MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
+#EXTINF:0, ZOOMOO
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
+#EXTINF:0, TV BAHIA
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event11/profile2.m3u8
+#EXTINF:0, RECORD TV ITAPOAN
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event2/profile2.m3u8
+#EXTINF:0, REDE TV
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event6/profile2.m3u8
+#EXTINF:0, BAND
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event3/profile2.m3u8
+#EXTINF:0, CULTURA
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event5/profile2.m3u8
+#EXTINF:0, FUTURA
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event9/profile2.m3u8
+#EXTINF:0, GAZETA SP
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event4/profile2.m3u8
+#EXTINF:0, RECORD NEWS
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/videos/event8/profile2.m3u8
+#EXTINF:0, REDBULL TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0, NICK
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8
+#EXTINF:0, NICK JR
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/NICK_JR_00999_1_/tracks-v1a1/mono.m3u8
+#EXTINF:0, WOHOO
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:0, FISH TV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/FISH_TV_NX/video.m3u8
+#EXTINF:0, SESCTV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SESC_TV/video.m3u8
+#EXTINF:0, FASHION TV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/FASHIONONE_HD/video.m3u8
+#EXTINF:0, ZOOMOO BR
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
+#EXTINF:0, CCTV4
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CCTV/video.m3u8
+#EXTINF:0, CGTN DOCUMENTARY
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CGNT_DOCUMENTARY/video.m3u8
+#EXTINF:0, CGTN AMERICA E
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CGNT/video.m3u8
+#EXTINF:0, CGTN ESPANOL
+#EXTVLCOPT:network-caching=1000
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0, REDE METROPOLE
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/METROPOLE/video.m3u8
+#EXTINF:0, REDE METROPOLE BACKUP
+#EXTVLCOPT:network-caching=1000
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:0, TV COM BRASIL
+#EXTVLCOPT:network-caching=1000
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w537120110.m3u8
+#EXTINF:0, PIXTV
+#EXTVLCOPT:network-caching=1000
+https://tmwpix.com:7007/pix/pixtv_hi.m3u8
+#EXTINF:0, LOADING
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
+#EXTINF:0, TELESUR
+#EXTVLCOPT:network-caching=1000
+https://d34atfaah7iyyu.cloudfront.net/mbliveOcas/hd/chunklist_w1571657473.m3u8
+#EXTINF:0, PRIMEBOX BRAZIL
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/PRIME_HD_/video.m3u8
+#EXTINF:0, TRACE SPORTS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TRACE_SPORT/video.m3u8
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8
+#EXTINF:0, FILM & ARTS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1a2a3l2/mono.m3u8
+#EXTINF:0, TBS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8
+#EXTINF:0, CANAL SAUDE
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_SAUDE/video.m3u8
+#EXTINF:0, ARIRANG
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:0, NHK WORLD
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/NHK/tracks-v1a1/mono.m3u8
+#EXTINF:0, CLASSIC HITS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/classichit/video.m3u8
+#EXTINF:0, ALJAZZERA
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0, TVWA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8?
+#EXTINF:0, TV TROPICAL RECORD RN
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_TROPICAL_/video.m3u8
+#EXTINF:0, URBAN SERIES
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w1589034508.m3u8
+#EXTINF:29, URBAN MOVIES
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/URBAN_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:0, URBAN KIDS
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w1092172252.m3u8
+#EXTINF:0, URBAN DOCS
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1433878076.m3u8
+#EXTINF:0, URBAN TURBO
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/URBAN_TURBO/tracks-v1a1/mono.m3u8
+#EXTINF:0, URBAN TV
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1825527269.m3u8
+#EXTINF:0, CANAL AMERICA LATINO
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/AMERICOLATINO/video.m3u8
+#EXTINF:0, CANAL HITTS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/HITTS/video.m3u8
+#EXTINF:0, CANAL BRA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/BRAmusic/video.m3u8
+#EXTINF:0, CANAL MEGA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/MEGA/video.m3u8
+#EXTINF:0, CANAL CULT
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
+#EXTINF:0, CONECTV
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/CONECT_TV/video.m3u8
+#EXTINF:0, ARGENTINISSIMA SATELITAL
+#EXTVLCOPT:network-caching=1000
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w2091833482_b1912000_sleng.m3u8
+#EXTINF:0, RADIO CBN SP
+#EXTVLCOPT:network-caching=1000
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0, CANAL SCH
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SCH/video.m3u8
+#EXTINF:0, REDE VIDA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
+#EXTINF:0, SEX PRIVE
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SEXPRIVE_HD/tracks-v1a1/mono.m3u8
