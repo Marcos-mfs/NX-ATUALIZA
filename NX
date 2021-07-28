@@ -4,7 +4,8 @@
 https://live-tvg-df-06.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401627580459154216433716274940617040454583k1K6xmGU8vnbWXV4-pVhLg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, GLOBO MT TESTE
 #EXTVLCOPT:network-caching=1000
-https://live-df-05.video.globo.com/d/nl/s/hls-globo-mt/playlist.m3u8?h=04016275808724989188204162749447424192454202oGPxH8VkoMegRZOpKxVtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5#EXTINF:0, CULTURA
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-mt/playlist.m3u8?h=04016275808724989188204162749447424192454202oGPxH8VkoMegRZOpKxVtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, CULTURA
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
 #EXTINF:0, MULTICULTURA UNIVESP
