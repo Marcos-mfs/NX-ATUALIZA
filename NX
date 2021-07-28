@@ -3,6 +3,40 @@
 #EXTINF:0, +GLOBOSAT
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-03-25.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411627601578134453129516275151670013532366_zv8sPRywx-bkYuhnBEWog&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OFF
+#EXTVLCOPT:network-caching=1000
+https://live-as-09-17.video.globo.com/d/s/hls-off24ha/playlist.m3u8?h=0401627601845138682208616275154335924162707E51Wbaqfmw6sLlE_LIApjw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, SPORTV
+#EXTVLCOPT:network-caching=1000
+https://live-as-08-25.video.globo.com/d/s/hls-spo124ha/playlist.m3u8?h=0411627602048469800601016275156369050015538sfcaNfUj3UekpTw7-ZPIJQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, SPORTV 2
+#EXTVLCOPT:network-caching=1000
+https://live-as-09-17.video.globo.com/d/s/hls-spo224ha/playlist.m3u8?h=0411627602092766139835416275156804753175050QC9hsfx51MKuLTmkTA0ifw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, SPORTV 3
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-02-31.video.globo.com/d/s/hls-spo324ha/playlist.m3u8?h=0411627602122463189918816275157107345934282kyc-JuM-BBtV574E5Q2b4Q&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, SPORTV 4
+#EXTVLCOPT:network-caching=1000
+https://live-as-01-17.video.globo.com/d/s/hls-spo424ha/playlist.m3u8?h=0411627602152253769572916275157408983221882eqaedoic3dc5keFS6Z2FLA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, GNT
+#EXTVLCOPT:network-caching=1000
+https://live-as-04-13.video.globo.com/d/s/hls-gnt24ha/playlist.m3u8?h=0411627602223103699202216275158129625052053KgzB723a1csUIh_nJIgHVA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, VIVA
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-03-25.video.globo.com/h/0411627602258127917944216275158468594908121hsLFsrlv3DNROkC36qdMmA/k/html5/a/F/u/BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5/nu/viva24ha/playlist.m3u8
+#EXTINF:0, MULTISHOW
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-03-25.video.globo.com/h/0411627602314295185611316275159021654865936GmIOwUbf2hLFfVtqprnU0g/k/html5/a/F/u/BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5/nu/msw24ha/playlist.m3u8
+#EXTINF:0, BIS
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-11-37.video.globo.com/d/s/hls-bis24ha/playlist.m3u8?h=0411627602373294902573416275159619973876720to3RseXkrNUvekq3kjzHyw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+
 #EXTINF:0, TV ANHANGUERA
 #EXTVLCOPT:network-caching=1000
 https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-go01/playlist.m3u8?h=0401627601153318980308216275147415388833273TlQ_5VX3DWCRIoVPAzjZtQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
