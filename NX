@@ -39,24 +39,51 @@ https://live-fe-as-03-25.video.globo.com/d/s/hls-gloob24ha/playlist.m3u8?h=04016
 #EXTINF:0, CANAL BRASIL
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-02-31.video.globo.com/d/s/hls-bra24ha/playlist.m3u8?h=041162760266561913991191627516254837442123153vmK84FUFxoy14CwbxwDw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
-#EXTINF:0, PFC 2
-#EXTVLCOPT:network-caching=1000
-https://live-fe-as-11-37.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401627602803290902744416275163917111134120sHlaMbhsp5FQ2OMDvuIt0w&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
-#EXTINF:0, OLIMPIADA SINAL 38
-#EXTVLCOPT:network-caching=1000
-https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov38a/playlist.m3u8?h=0411627602855971472251416275164432461994031qK6b6iPLGkiH48dJ621zQg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, PFC 1
 #EXTVLCOPT:network-caching=1000
 https://live-as-10-17.video.globo.com/d/s/hls-pfc1/playlist.m3u8?h=0401627603056412049542716275166445044377619oVGwYW6irmDMsKo2y7PNeQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, PFC 2
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-11-37.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401627602803290902744416275163917111134120sHlaMbhsp5FQ2OMDvuIt0w&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, FUTURA
 #EXTVLCOPT:network-caching=1000
 https://live-as-01-17.video.globo.com/d/e/s/hls-futura24ha/playlist.m3u8?h=0411627603183162465350316275167717398793961DkOmKmJzSETj3uYyxlSkNA&k=html5&a=A&u=BR~
 #EXTINF:0, OLIMPIADA SINAL 1
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-02-31.video.globo.com/d/e/nl/s/hls-spov01a/playlist.m3u8?h=04116276032777494858917162751686508680845096BXQqVWwcV4CSWc7sDGqIg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 6
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-10-38.video.globo.com/d/e/nl/s/hls-spov06a/playlist.m3u8?h=0411627649378329247684716275629806313255823-MmH1o0g4FncZX2r6jOyBQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 7
+#EXTVLCOPT:network-caching=1000
+https://live-cm-aq-19-39.video.globo.com/d/e/nl/s/hls-spov07a/playlist.m3u8?h=0411627649454153685856316275630568587682361Mhd3PCQRtY_4eiFDMeq_YA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 8
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-13-38.video.globo.com/d/e/nl/s/hls-spov08a/playlist.m3u8?h=0411627649517140768239416275631199688494495yYUbnlgc7Q19KcCsxAg0Kw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 9
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-14-37.video.globo.com/d/e/nl/s/hls-spov09a/playlist.m3u8?h=0411627649565261022577716275631670060820347kZKyzKoj3aixV6MQPI_ZBA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 11
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-10-38.video.globo.com/d/e/nl/s/hls-spov11a/playlist.m3u8?h=0411627649617153280350516275632189607821220bJVMHHeMg9BfeeQw4IaGrQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 13
+#EXTVLCOPT:network-caching=1000
+https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov13a/playlist.m3u8?h=0411627603695170349960216275172839041093734XBVBJfSzMSAUM8SV6bvHyg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 14
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-10-38.video.globo.com/d/e/nl/s/hls-spov14a/playlist.m3u8?h=04116276496631096186399162756326590742632958PEPfZ6rPdgQ7xy4LOMpCQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, OLIMPIADA SINAL 15
 #EXTVLCOPT:network-caching=1000
 https://live-as-04-13.video.globo.com/d/e/nl/s/hls-spov15a/playlist.m3u8?h=0411627603377536756394116275169651535773921sn0eDaveRkdQJytPJohMKw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 18
+#EXTVLCOPT:network-caching=1000
+https://live-cm-ah-10-37.video.globo.com/d/e/nl/s/hls-spov18a/playlist.m3u8?h=0411627650185183363900516275637871919762535JwZkEbgk3LfmGO5YHbdlJA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 22
+#EXTVLCOPT:network-caching=1000
+https://live-cm-al-14-36.video.globo.com/d/e/nl/s/hls-spov22a/playlist.m3u8?h=0411627650253183632906816275638552222946610pxhNzYHgMISYgvySmqBsog&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 24
+#EXTVLCOPT:network-caching=1000
+https://live-cm-al-14-36.video.globo.com/d/e/nl/s/hls-spov24a/playlist.m3u8?h=04116276503887995024625162756398975286690887-TLIWvLfeuaTSAAwxh98w&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, OLIMPIADA SINAL 25
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-11-35.video.globo.com/d/e/nl/s/hls-spov25a/playlist.m3u8?h=0411627603419646627175716275170072960054513U9oYrzLAkjBs1rdlOb2BZg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
@@ -72,14 +99,45 @@ https://live-fe-as-02-31.video.globo.com/d/e/nl/s/hls-spov35a/playlist.m3u8?h=04
 #EXTINF:0, OLIMPIADA SINAL 37
 #EXTVLCOPT:network-caching=1000
 https://live-as-03-24.video.globo.com/d/e/nl/s/hls-spov37a/playlist.m3u8?h=0411627603615265414950716275172039131838412H0HzCXL0tFFwaZXq4AsUUg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
-#EXTINF:0, OLIMPIADA SINAL 13
+#EXTINF:0, OLIMPIADA SINAL 38
 #EXTVLCOPT:network-caching=1000
-https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov13a/playlist.m3u8?h=0411627603695170349960216275172839041093734XBVBJfSzMSAUM8SV6bvHyg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov38a/playlist.m3u8?h=0411627602855971472251416275164432461994031qK6b6iPLGkiH48dJ621zQg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 39
+#EXTVLCOPT:network-caching=1000
+https://live-cm-al-14-36.video.globo.com/d/e/nl/s/hls-spov39a/playlist.m3u8?h=04116276491642371130993162756276667685478219Rfl3w58N-cfshQqHvP-DQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 40
+#EXTVLCOPT:network-caching=1000
+https://live-cm-aq-21-39.video.globo.com/d/e/nl/s/hls-spov40a/playlist.m3u8?h=0411627649072663412839316275626730530278431NsoW4pagAGX4uzR-EIIWAw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 42
+#EXTVLCOPT:network-caching=1000
+https://live-cm-al-10-37.video.globo.com/d/e/nl/s/hls-spov42a/playlist.m3u8?h=0411627648979107419375516275625812228360212ZosO-PLfwsfDxMC8lM4aSg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, OLIMPIADA SINAL 43
 #EXTVLCOPT:network-caching=1000
 https://live-as-03-24.video.globo.com/d/e/nl/s/hls-spov43a/playlist.m3u8?h=0411627603753285760000516275173419465874278P9LfYiLdD20Hr7Vk2FzLYg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+
+
+
 #EXTINF:0, 
 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
 
 #EXTINF:0, TV LIBERAL
 #EXTVLCOPT:network-caching=1000
