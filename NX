@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:0 type="video" channelId="-1", MENDANHA
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0, +GLOBOSAT
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-03-25.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411627601578134453129516275151670013532366_zv8sPRywx-bkYuhnBEWog&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
