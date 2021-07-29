@@ -114,27 +114,51 @@ https://live-cm-al-10-37.video.globo.com/d/e/nl/s/hls-spov42a/playlist.m3u8?h=04
 #EXTINF:0, OLIMPIADA SINAL 43
 #EXTVLCOPT:network-caching=1000
 https://live-as-03-24.video.globo.com/d/e/nl/s/hls-spov43a/playlist.m3u8?h=0411627603753285760000516275173419465874278P9LfYiLdD20Hr7Vk2FzLYg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
-
-
-
-#EXTINF:0, 
+#EXTINF:0, EPTV RIBEIRAO
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, 
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-rib/playlist.m3u8?h=0401627650878781573830116275644804075659489G_J8twD1BXgKk1-wGzgcHw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, EPTV SAO CARLOS
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, 
+https://live-df-04.video.globo.com/d/nl/s/hls-globo-sca/playlist.m3u8?h=0401627651280184340098816275648823506664873p5T7F4jmR9Su0qK0GbZy6Q&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV TEM SJRP
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, 
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-sjr/playlist.m3u8?h=0401627651345920664858816275649470038290352nPg1oflQSQZ59VbwcckeHw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV VERDES MARES JUAZEIRO
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, 
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-ce2/playlist.m3u8?h=0401627651604738188660916275652058453640074apfs_o__mfN_QARNxF78Cg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV VANGUARDA TAUBATE
 #EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, 
+https://live-fe-tvg-df-2.video.globo.com/d/nl/s/hls-globo-tau/playlist.m3u8?h=0401627651692124912265716275652936848755274rnRWW5wI-W4M-7eJfHdvhg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV TEM SOROCABA
 #EXTVLCOPT:network-caching=1000
-
+https://live-df-04.video.globo.com/d/nl/s/hls-globo-sor/playlist.m3u8?h=0401627651780700846269216275653823743837780664NbH4P5i3hUJCGu07V3g&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV TEM ITAPETININGA
+#EXTVLCOPT:network-caching=1000
+https://live-df-04.video.globo.com/d/nl/s/hls-globo-itp/playlist.m3u8?h=04016276518501036199604162756545276138877724c6wW4vVM2Mm3TFO0SeWqg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV TEM BAURU
+#EXTVLCOPT:network-caching=1000
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-bau/playlist.m3u8?h=0401627651904442781496316275655064399353166UYVn39s1jotOG6BGfUv7mg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV MIRANTE IMPERATRIZ
+#EXTVLCOPT:network-caching=1000
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-imp/playlist.m3u8?h=0401627651992986687886316275655948773590662-60VKm-AGvyIHNR4siZiLw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, TV MIRANTE CAXIAS
+#EXTVLCOPT:network-caching=1000
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-cdo/playlist.m3u8?h=0401627652116135602394216275657187049365358m0e4aqPCgMoOFzlcm_TW8w&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, INTERTV SERRA+MAR
+#EXTVLCOPT:network-caching=1000
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-fri/playlist.m3u8?h=04016276524351684146772162756603748241083843AHlm8KKpD8m7th-dpOmPg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, INTERTV DOS VALES
+#EXTVLCOPT:network-caching=1000
+https://live-df-05.video.globo.com/d/nl/s/hls-globo-fab/playlist.m3u8?h=0401627652502466963878116275661040512209834S86KyILD0AR-tAvKWMiEfg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, INTERTV COSTA BRANCA MOSSORO
+#EXTVLCOPT:network-caching=1000
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-na2/playlist.m3u8?h=0401627652612595574183416275662142584035810gAPdbmGdVKlRehvtajXYMg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, INTERTV ALTO LITORAL CAMPOS
+#EXTVLCOPT:network-caching=1000
+https://live-tvg-df-06.video.globo.com/d/nl/s/hls-globo-flu/playlist.m3u8?h=0401627652703137103603016275663066886781916PjhTFGpcLGc9-b1Zhw8ywA&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, GLOBO RJ
+#EXTVLCOPT:network-caching=1000
+https://live-fe-tvg-df-1.video.globo.com/d/m/e/nl/s/hls-globo-rj/playlist.m3u8?h=04016276527911397260663162756639341807634424xXoNdnIi0V2_lBLnvDz8Q&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, 
 #EXTVLCOPT:network-caching=1000
 
