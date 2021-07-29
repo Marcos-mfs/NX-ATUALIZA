@@ -30,6 +30,165 @@ https://live-fe-as-03-25.video.globo.com/h/0411627602314295185611316275159021654
 #EXTINF:0, BIS
 #EXTVLCOPT:network-caching=1000
 https://live-fe-as-11-37.video.globo.com/d/s/hls-bis24ha/playlist.m3u8?h=0411627602373294902573416275159619973876720to3RseXkrNUvekq3kjzHyw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, GLOBONEWS
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-11-37.video.globo.com/d/s/hls-gnews24ha/playlist.m3u8?h=04016276025647662458182162751615236231779038dZ3B0QfbJVBc1xjYJs5xQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, GLOOB
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-03-25.video.globo.com/d/s/hls-gloob24ha/playlist.m3u8?h=0401627602609519257129616275161970424372722IMhOX2-SaXVC_kDU09yzSw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, CANAL BRASIL
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-02-31.video.globo.com/d/s/hls-bra24ha/playlist.m3u8?h=041162760266561913991191627516254837442123153vmK84FUFxoy14CwbxwDw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, PFC 2
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-11-37.video.globo.com/d/s/hls-pfc2/playlist.m3u8?h=0401627602803290902744416275163917111134120sHlaMbhsp5FQ2OMDvuIt0w&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 38
+#EXTVLCOPT:network-caching=1000
+https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov38a/playlist.m3u8?h=0411627602855971472251416275164432461994031qK6b6iPLGkiH48dJ621zQg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, PFC 1
+#EXTVLCOPT:network-caching=1000
+https://live-as-10-17.video.globo.com/d/s/hls-pfc1/playlist.m3u8?h=0401627603056412049542716275166445044377619oVGwYW6irmDMsKo2y7PNeQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, FUTURA
+#EXTVLCOPT:network-caching=1000
+https://live-as-01-17.video.globo.com/d/e/s/hls-futura24ha/playlist.m3u8?h=0411627603183162465350316275167717398793961DkOmKmJzSETj3uYyxlSkNA&k=html5&a=A&u=BR~
+#EXTINF:0, OLIMPIADA SINAL 1
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-02-31.video.globo.com/d/e/nl/s/hls-spov01a/playlist.m3u8?h=04116276032777494858917162751686508680845096BXQqVWwcV4CSWc7sDGqIg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 15
+#EXTVLCOPT:network-caching=1000
+https://live-as-04-13.video.globo.com/d/e/nl/s/hls-spov15a/playlist.m3u8?h=0411627603377536756394116275169651535773921sn0eDaveRkdQJytPJohMKw&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 25
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-11-35.video.globo.com/d/e/nl/s/hls-spov25a/playlist.m3u8?h=0411627603419646627175716275170072960054513U9oYrzLAkjBs1rdlOb2BZg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 27
+#EXTVLCOPT:network-caching=1000
+https://live-as-08-24.video.globo.com/d/e/nl/s/hls-spov27a/playlist.m3u8?h=0411627603468129491018116275170560218903756wmBz2h3HIhIwMeyMhC1RCQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 29
+#EXTVLCOPT:network-caching=1000
+https://live-as-04-14.video.globo.com/d/e/nl/s/hls-spov29a/playlist.m3u8?h=04116276035152397097626162751710360699080224WLB4ArEQOnr1HnSKWbMfA&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 35
+#EXTVLCOPT:network-caching=1000
+https://live-fe-as-02-31.video.globo.com/d/e/nl/s/hls-spov35a/playlist.m3u8?h=04116276035621201107704162751715042265969541Gxv0AHfcKR6MMvt6nEH-w&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 37
+#EXTVLCOPT:network-caching=1000
+https://live-as-03-24.video.globo.com/d/e/nl/s/hls-spov37a/playlist.m3u8?h=0411627603615265414950716275172039131838412H0HzCXL0tFFwaZXq4AsUUg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 13
+#EXTVLCOPT:network-caching=1000
+https://live-as-10-17.video.globo.com/d/e/nl/s/hls-spov13a/playlist.m3u8?h=0411627603695170349960216275172839041093734XBVBJfSzMSAUM8SV6bvHyg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, OLIMPIADA SINAL 43
+#EXTVLCOPT:network-caching=1000
+https://live-as-03-24.video.globo.com/d/e/nl/s/hls-spov43a/playlist.m3u8?h=0411627603753285760000516275173419465874278P9LfYiLdD20Hr7Vk2FzLYg&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, 
+#EXTVLCOPT:network-caching=1000
+
 #EXTINF:0, 
 #EXTVLCOPT:network-caching=1000
 
