@@ -166,40 +166,37 @@ https://live-fe-tvg-df-1.video.globo.com/d/m/e/nl/s/hls-globo-rj/playlist.m3u8?h
 
 #EXTINF:0, TV LIBERAL
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-bel/playlist.m3u8?h=0401627603940110188524116275175284827603618eJEzrShWa-eg2wLw7Ky9iw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-3.video.globo.com/d/nl/s/hls-globo-bel/playlist.m3u8?h=04016277459347330495432162765953613205842970u5QJU3ntjstJPjQ4zTRfQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV MIRANTE
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=040162760407335063362091627517661022920144592r2EEfeH3QoBiRwFQWHMQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-df-04.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=040162774604381550837151627659645927411186471SC59k3FCBF_zx5gdBAnw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV AMAZONICA MANAUS
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-man/playlist.m3u8?h=04016276042302071891106162751781845959182689-2U8wsuyMT_DkpG-0Sh-A&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-1.video.globo.com/d/m/nl/s/hls-globo-man/playlist.m3u8?h=0401627746122155971482916276597244101375289C0fGg8ZZ-TGP2dWwxC0nfQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV AMAZONICA PORTO VELHO
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-ron/playlist.m3u8?h=0401627605045340386554516275186455184143462M_aTEpKDvRzvwrjHdydMBA&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-tvg-df-06.video.globo.com/d/m/nl/s/hls-globo-ron/playlist.m3u8?h=0401627746252489500640516276598545647030122BSLUix0GB9DGBUUkMZ8nZw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV AMAZONICA RIO BRANCO
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-acr/playlist.m3u8?h=04016276051291365585491162751872963668627151NmHmhBuBy5F72DpmzAsjg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-2.video.globo.com/d/m/nl/s/hls-globo-acr/playlist.m3u8?h=0401627746340114862612616276599426991727059a_Xxvhx0pHa2OrX6mXRRNw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV AMAZONICA BOA VISTA
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-ror/playlist.m3u8?h=0401627605187797749726716275187878109259786w1SSBLTPK33n1l_q_mpDbQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-1.video.globo.com/d/m/nl/s/hls-globo-ror/playlist.m3u8?h=0401627746446555112555216276600486349283165O3p9biBfEvav1CumVjsr_A&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV AMAZONICA MACAPA
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/m/nl/s/hls-globo-amp/playlist.m3u8?h=04016276052571527303781162751885739931538907qoqXIPJ5igw2KSrSsipdw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-1.video.globo.com/d/m/nl/s/hls-globo-amp/playlist.m3u8?h=0401627746530295662162716276601334122382245z2jW9kFJJnHPaXeA8gRjyA&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, NSC FLORIANOPOLIS
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=04016276053261061215421162751892633028538598vDNCj11Arm8zTYYX1BTqg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-2.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=0401627746625149357369416276602276327917895XDJ_c9cN0S3mtVZ_XcW1VQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, RPC CURITIBA
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=04016276055234702059213162751912320569302248O2Lk4pm8H8xHuH7EnpfRA&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-df-04.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=04016277466873774056155162766028959778463065boWADzLyHr8JUpBoOBnHg&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV GAZETA VITORIA
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-vit/playlist.m3u8?h=0401627605608597494287716275192084501286646TOs3pwVf23oyV-bnXRqjvA&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-tvg-df-1.video.globo.com/d/nl/s/hls-globo-vit/playlist.m3u8?h=0401627746800125560322916276604033569348600fRujLseGR022I8WavyM02Q&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, INTERTV NATAL
 #EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-nat/playlist.m3u8?h=0401627605797159497247016275193979599702649D67r0cpWXND1-aJFDL7GnQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
-#EXTINF:0, TV VERDES MARES
-#EXTVLCOPT:network-caching=1000
-https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401627605877128348523916275194782510271694lLI7cHCqfiB1OV2LOhy8Qw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-nat/playlist.m3u8?h=0401627605797159497247016275193979599702649D67r0cpWXND1-aJFDL7GnQ&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401627605877128348523916275194782510271694lLI7cHCqfiB1OV2LOhy8Qw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, TV BAHIA
 #EXTVLCOPT:network-caching=1000
 https://live-fe-anh-go-1.video.globo.com/d/nl/s/hls-globo-sal/playlist.m3u8?h=0401627605985588979684316275195850668741803hSlmGgqmfBrlD8uVKt7sig&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
