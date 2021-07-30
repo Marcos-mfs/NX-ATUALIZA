@@ -3,10 +3,10 @@
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0, +GLOBOSAT
 #EXTVLCOPT:network-caching=1000
-https://live-fe-as-03-25.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411627601578134453129516275151670013532366_zv8sPRywx-bkYuhnBEWog&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-cm-aq-21-39.video.globo.com/d/s/hls-maisgsat24ha/playlist.m3u8?h=0411627733366168905856316276469687952029577h6rcBF3IDVG-6Nc1Cosk8A&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, OFF
 #EXTVLCOPT:network-caching=1000
-https://live-as-09-17.video.globo.com/d/s/hls-off24ha/playlist.m3u8?h=0401627601845138682208616275154335924162707E51Wbaqfmw6sLlE_LIApjw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
+https://live-cm-aq-21-39.video.globo.com/d/s/hls-off24ha/playlist.m3u8?h=0401627601845138682208616275154335924162707E51Wbaqfmw6sLlE_LIApjw&k=html5&a=F&u=c2b48f49-80bb-452e-ab0e-e503215d0bc5
 #EXTINF:0, SPORTV
 #EXTVLCOPT:network-caching=1000
 https://live-as-08-25.video.globo.com/d/s/hls-spo124ha/playlist.m3u8?h=0411627602048469800601016275156369050015538sfcaNfUj3UekpTw7-ZPIJQ&k=html5&a=F&u=BR~c2b48f49-80bb-452e-ab0e-e503215d0bc5
