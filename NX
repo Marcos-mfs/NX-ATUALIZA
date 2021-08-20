@@ -1,31 +1,45 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1", MENDANHA
-https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0, CULTURA
+#EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
 #EXTINF:0, MULTICULTURA UNIVESP
+#EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/UNIVESP_PFZ/video.m3u8
 #EXTINF:0, SBT
-https://origin-02.nxplay.com.br/SBT_HD_13-17-13/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/SBT_HD_13-17-13-1-/tracks-v1a1/mono.m3u8
 #EXTINF:0, GLOBO SP
-https://origin-02.nxplay.com.br/Glob_13131313131316_1_/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/Glob_13131313131316_1_1_/tracks-v1a1/mono.m3u8
 #EXTINF:0, RECORD
-https://origin-02.nxplay.com.br/RECORD_HD_121/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/RECORD_HD_13/tracks-v1a1/mono.m3u8
 #EXTINF:0, REDE TV
-https://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/REDETV_HD_SIMBA_/tracks-v1a1/mono.m3u8
 #EXTINF:0, REDE TV 2
+#EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
 #EXTINF:0, GAZETA
-https://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_GAZETA_NX_/tracks-v1a1/mono.m3u8
+#EXTINF:0, BAND HD
+#EXTVLCOPT:network-caching=1000
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1069726845.m3u8
 #EXTINF:0, BAND INTERIOR
+#EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1_13_/video.m3u8
 #EXTINF:0, RBTV
+#EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/sictv/tracks-v1a1/mono.m3u8
 #EXTINF:0, TV TEM
-https://origin-02.nxplay.com.br/TV_TEM_H1385131/tracks-v1a1/mono.m3u8
-#EXTINF:0, SBT TV SOCORABA
-https://origin-02.nxplay.com.br/t1-13-17/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TV_TEM_H_13/tracks-v1a1/mono.m3u8
+#EXTINF:0, TV SOCORABA
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/t1-13-17_2_/tracks-v1a1/mono.m3u8
 #EXTINF:0, FUTURA
+#EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/FUTURA/format720p_FUTURA.m3u8
 #EXTINF:0, TV BRASIL
 #EXTVLCOPT:network-caching=1000
@@ -60,6 +74,9 @@ https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, CANAL DO BOI
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/video.m3u8
+#EXTINF:0, TRAVEL BOX
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/TRAVEL_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:0, CAN??O NOVA
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
@@ -69,6 +86,9 @@ https://origin-02.nxplay.com.br/TV_APARECIDA/video.m3u8
 #EXTINF:22, NOVO TEMPO HD
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
+#EXTINF:0, REDE GENESIS
+#EXTVLCOPT:network-caching=1000
+https://origin-02.nxplay.com.br/GENESIS_HD/video.m3u8
 #EXTINF:0, COMEDY CENTRAL
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/comed_central-tk1/tracks-v1a1/mono.m3u8
@@ -84,27 +104,6 @@ https://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
 #EXTINF:0, ZOOMOO
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
-#EXTINF:0, TV BAHIA
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/TV_BAHIA/format720p_TV_BAHIA.m3u8
-#EXTINF:0, RECORD TV ITAPOAN
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/TV_ITAPOAN/format720p_TV_ITAPOAN.m3u8
-#EXTINF:0, REDE TV
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
-#EXTINF:0, BAND
-#EXTVLCOPT:network-caching=1000
-https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1069726845.m3u8
-#EXTINF:0, CULTURA
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/CULTURA/format720p_CULTURA.m3u8
-#EXTINF:0, GAZETA SP
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/GAZETA/format720p_GAZETA.m3u8
-#EXTINF:0, RECORD NEWS
-#EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/format720p_RECORD_NEWS.m3u8
 #EXTINF:0, REDBULL TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -245,4 +244,4 @@ https://origin-02.nxplay.com.br/SCH/video.m3u8
 https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
 #EXTINF:0, SEX PRIVE
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SEXPRIVE_HD/tracks-v1a1/mono.m3u8
+https://origin-02.nxplay.com.br/SEXPRIVE_HD_/tracks-v1a1/mono.m3u8
