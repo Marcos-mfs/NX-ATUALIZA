@@ -35,7 +35,7 @@ https://origin-02.nxplay.com.br/sictv/tracks-v1a1/mono.m3u8
 #EXTINF:0, TV TEM
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/TV_TEM_H_13/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV SOCORABA
+#EXTINF:0, TV SOROCABA
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/t1-13-17_2_/tracks-v1a1/mono.m3u8
 #EXTINF:0, FUTURA
