@@ -314,6 +314,76 @@ http://187.33.160.24:8000/play/2/index.m3u8
 http://187.33.160.24:8000/play/3/index.m3u8
 #EXTINF:-1,[HTTP] GEN TV CHAPECO
 http://187.33.160.24:8000/play/11/index.m3u8
+#EXTINF:-1,AMC HD | 2
+http://177.71.71.83:8002/play/amc
+#EXTINF:-1,Band HD | 6
+http://177.71.71.83:8002/play/band
+#EXTINF:-1,CNN Brasil HD | 16
+http://177.71.71.83:8002/play/cnnbrasil
+#EXTINF:-1,Canal do Boi HD | 12
+http://177.71.71.83:8002/play/canaldoboi
+#EXTINF:-1,Cinemax HD | 15
+http://177.71.71.83:8002/play/cinemax
+#EXTINF:-1,Comedy Central HD | 18
+http://177.71.71.83:8002/play/comedycentral
+#EXTINF:-1,Cultura HD | 21
+http://177.71.71.83:8002/play/cultura
+#EXTINF:-1,Disney Junior HD | 30
+http://177.71.71.83:8002/play/disneyjunior
+#EXTINF:-1,FOX Sports 2 HD | 38
+http://177.71.71.83:8002/play/foxsports2
+#EXTINF:-1,FOX Sports HD | 39
+http://177.71.71.83:8002/play/foxsports
+#EXTINF:-1,FX HD | 41
+http://177.71.71.83:8002/play/fx
+#EXTINF:-1,HBO Family HD | 46
+http://177.71.71.83:8002/play/hbofamily
+#EXTINF:-1,HBO HD | 47
+http://177.71.71.83:8002/play/hbo
+#EXTINF:-1,HBO MUNDI HD | 48
+http://177.71.71.83:8002/play/hbomundi
+#EXTINF:-1,HBO POP HD | 49
+http://177.71.71.83:8002/play/hbopop
+#EXTINF:-1,HBO Signature HD | 50
+http://177.71.71.83:8002/play/hbosignature
+#EXTINF:-1,HBO XTREME HD | 51
+http://177.71.71.83:8002/play/hboxtreme
+#EXTINF:-1,HBO+ HD | 52
+http://177.71.71.83:8002/play/hboplus
+#EXTINF:-1,HBO2 HD | 53
+http://177.71.71.83:8002/play/hbo2
+#EXTINF:-1,Like HD | 59
+http://177.71.71.83:8002/play/like
+#EXTINF:-1,MTV HD | 62
+http://177.71.71.83:8002/play/mtv
+#EXTINF:-1,Nat Geo Kids HD | 66
+http://177.71.71.83:8002/play/natgeokids
+#EXTINF:-1,NatGeo Wild HD | 67
+http://177.71.71.83:8002/play/natgeowild
+#EXTINF:-1,National Geographic HD | 68
+http://177.71.71.83:8002/play/nationalgeographic
+#EXTINF:-1,Pai Eterno HD | 72
+http://177.71.71.83:8002/play/paieterno
+#EXTINF:-1,Paramount Network HD | 73
+http://177.71.71.83:8002/play/paramountnetwork
+#EXTINF:-1,SBT HD | 84
+http://177.71.71.83:8002/play/sbt
+#EXTINF:-1,STAR CHANNEL HD | 90
+http://177.71.71.83:8002/play/starchannel
+#EXTINF:-1,STAR LIFE HD | 93
+http://177.71.71.83:8002/play/starlife
+#EXTINF:-1,Smithsonian HD | 85
+http://177.71.71.83:8002/play/smithsonian
+#EXTINF:-1,TV Aparecida | 107
+http://177.71.71.83:8002/play/tvaparecida
+#EXTINF:-1,TV Brasil HD | 108
+http://177.71.71.83:8002/play/tvbrasil
+#EXTINF:-1,TV Ra Tim Bum HD | 110
+http://177.71.71.83:8002/play/tvratimbum
+#EXTINF:-1,TV Rio Sul - Globo HD | 111
+http://177.71.71.83:8002/play/tvriosul
+#EXTINF:-1,VH1 | 113
+http://177.71.71.83:8002/play/vh1
 #EXTINF:0, SEX PRIVE
 #EXTVLCOPT:network-caching=1000
 https://origin-02.nxplay.com.br/SEXPRIVE_HD_/tracks-v1a1/mono.m3u8
