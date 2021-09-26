@@ -264,4 +264,177 @@ http://177.52.216.28:8000/play/a066
 #EXTINF:0, RADIO CBN SP
 #EXTVLCOPT:network-caching=1000
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-
+#EXTINF:-1, National Geographic Wild
+http://185.236.229.21:9981/play/a06f
+#EXTINF:-1,24 Kitchen HD
+http://185.236.229.21:9981/play/a05m
+#EXTINF:-1,AMC HD
+http://185.236.229.21:9981/play/a04x
+#EXTINF:-1,AXN Movies HD
+http://185.236.229.21:9981/play/a05l
+#EXTINF:-1,AXN White HD
+http://185.236.229.21:9981/play/a05p
+#EXTINF:-1,Afro Music
+http://185.236.229.21:9981/play/a05g
+#EXTINF:-1,BBC Entertainment
+http://185.236.229.21:9981/play/a05e
+#EXTINF:-1,BBC World News
+http://185.236.229.21:9981/play/a03k
+#EXTINF:-1,Biggs
+http://185.236.229.21:9981/play/a03g
+#EXTINF:-1,Blaze
+http://185.236.229.21:9981/play/a03b
+#EXTINF:-1,Bloomberg
+http://185.236.229.21:9981/play/a06w
+#EXTINF:-1,CNBC
+http://185.236.229.21:9981/play/a06x
+#EXTINF:-1,CNN
+http://185.236.229.21:9981/play/a03i
+#EXTINF:-1,Canal 11 HD
+http://185.236.229.21:9981/play/a051
+#EXTINF:-1,Canal NOS
+http://185.236.229.21:9981/play/a070
+#EXTINF:-1,Canal Panda
+http://185.236.229.21:9981/play/a074
+#EXTINF:-1,Canal Q
+http://185.236.229.21:9981/play/a06o
+#EXTINF:-1,CanĿªo Nova
+http://185.236.229.21:9981/play/a07n
+#EXTINF:-1,Cartoon Network
+http://185.236.229.21:9981/play/a06n
+#EXTINF:-1,Casa e Cozinha HD
+http://185.236.229.21:9981/play/a060
+#EXTINF:-1,CaĿa e Pesca
+http://185.236.229.21:9981/play/a04r
+#EXTINF:-1,Crime+Investigation
+http://185.236.229.21:9981/play/a07t
+#EXTINF:-1,Discovery Channel
+http://185.236.229.21:9981/play/a04l
+#EXTINF:-1,Discovery Channel HD
+http://185.236.229.21:9981/play/a05a
+#EXTINF:-1,Disney Channel
+http://185.236.229.21:9981/play/a056
+#EXTINF:-1,Disney Junior
+http://185.236.229.21:9981/play/a03q
+#EXTINF:-1,E! Entertainment
+http://185.236.229.21:9981/play/a07k
+#EXTINF:-1,Eleven Sports 1
+http://185.236.229.21:9981/play/a05v
+#EXTINF:-1,Eleven Sports 4
+http://185.236.229.21:9981/play/a05x
+#EXTINF:-1,Eleven Sports 5
+http://185.236.229.21:9981/play/a05y
+#EXTINF:-1,Euronews
+http://185.236.229.21:9981/play/a03l
+#EXTINF:-1,Eurosport 1 HD
+http://185.236.229.21:9981/play/a064
+#EXTINF:-1,Eurosport 2
+http://185.236.229.21:9981/play/a07f
+#EXTINF:-1,FOX Crime HD
+http://185.236.229.21:9981/play/a066
+#EXTINF:-1,FOX Life HD
+http://185.236.229.21:9981/play/a05r
+#EXTINF:-1,FOX Movies
+http://185.236.229.21:9981/play/a039
+#EXTINF:-1,FTV
+http://185.236.229.21:9981/play/a07l
+#EXTINF:-1,France 24 (I)
+http://185.236.229.21:9981/play/a03m
+#EXTINF:-1,Fuel TV
+http://185.236.229.21:9981/play/a05c
+#EXTINF:-1,Globo Now
+http://185.236.229.21:9981/play/a04v
+#EXTINF:-1,Hollywood
+http://185.236.229.21:9981/play/a06k
+#EXTINF:-1,Hot
+http://185.236.229.21:9981/play/a03p
+#EXTINF:-1,ID Investigation Discovery
+http://185.236.229.21:9981/play/a05s
+#EXTINF:-1,Kuriakos TV HD
+http://185.236.229.21:9981/play/a03t
+#EXTINF:-1,MCM Pop
+http://185.236.229.21:9981/play/a06t
+#EXTINF:-1,Mezzo
+http://185.236.229.21:9981/play/a03e
+#EXTINF:-1,Motorvision
+http://185.236.229.21:9981/play/a04z
+#EXTINF:-1,NBA TV HD
+http://185.236.229.21:9981/play/a06c
+#EXTINF:-1,NHK World Japan
+http://185.236.229.21:9981/play/a05h
+#EXTINF:-1,NOS Studios HD
+http://185.236.229.21:9981/play/a054
+#EXTINF:-1,Nick Jr.
+http://185.236.229.21:9981/play/a04s
+#EXTINF:-1,Nickelodeon
+http://185.236.229.21:9981/play/a04p
+#EXTINF:-1,Odisseia
+http://185.236.229.21:9981/play/a06l
+#EXTINF:-1,PFC
+http://185.236.229.21:9981/play/a06v
+#EXTINF:-1,Playboy TV
+http://185.236.229.21:9981/play/a06z
+#EXTINF:-1,SIC Caras
+http://185.236.229.21:9981/play/a07j
+#EXTINF:-1,SIC Mulher
+http://185.236.229.21:9981/play/a037
+#EXTINF:-1,SIC NotŦcias
+http://185.236.229.21:9981/play/a073
+#EXTINF:-1,SIC NotŦcias
+http://185.236.229.21:9981/play/a076
+#EXTINF:-1,SIC Radical
+http://185.236.229.21:9981/play/a06p
+#EXTINF:-1,SIC Radical
+http://185.236.229.21:9981/play/a07i
+#EXTINF:-1,SKY News
+http://185.236.229.21:9981/play/a048
+#EXTINF:-1,SPORT TV 2
+http://185.236.229.21:9981/play/a079
+#EXTINF:-1,SPORT TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:-1,Sport TV 1
+http://185.236.229.21:9981/play/a072
+#EXTINF:-1,Sport TV 3
+http://185.236.229.21:9981/play/a06i
+#EXTINF:-1,Sport TV 4
+http://185.236.229.21:9981/play/a06j
+#EXTINF:-1,Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1,Sporting TV
+http://185.236.229.21:9981/play/a03r
+#EXTINF:-1,SyFy
+http://185.236.229.21:9981/play/a04j
+#EXTINF:-1,TLC
+http://185.236.229.21:9981/play/a038
+#EXTINF:-1,TV Galicia
+http://185.236.229.21:9981/play/a06y
+#EXTINF:-1,TVCine ACTION HD
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1,TVCine EDITION HD
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1,TVCine EMOTION HD
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1,TVCine TOP HD
+http://185.236.229.21:9981/play/a04w
+#EXTINF:-1,TVE 24h
+http://185.236.229.21:9981/play/a03h
+#EXTINF:-1,TVE Internacional
+http://185.236.229.21:9981/play/a03f
+#EXTINF:-1,TVI FicĿªo
+http://185.236.229.21:9981/play/a075
+#EXTINF:-1,TVI Reality
+http://185.236.229.21:9981/play/a036
+#EXTINF:-1,Toros TV
+http://185.236.229.21:9981/play/a03o
+#EXTINF:-1,Trace Toca
+http://185.236.229.21:9981/play/a04o
+#EXTINF:-1,Trace Urban
+http://185.236.229.21:9981/play/a06g
+#EXTINF:-1,Travel Channel HD
+http://185.236.229.21:9981/play/a05o
+#EXTINF:-1,VH1
+http://185.236.229.21:9981/play/a03d
+#EXTINF:-1,Venus
+http://185.236.229.21:9981/play/a05j
+#EXTINF:-1,ZAP Viva HD
+http://185.236.229.21:9981/play/a052
