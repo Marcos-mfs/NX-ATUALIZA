@@ -1,247 +1,135 @@
 #EXTM3U
-#EXTINF:0, CULTURA
+#EXTINF:0 type="video" channelId="-1", MENDANHA
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
+#EXTINF:0 type="video" channelId="-1", PCA CIVICA
+https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunklist_w1321264645.m3u8
+#EXTINF:-1,Travel Box Brasil
+http://177.52.216.28:8000/play/a06g
+#EXTINF:-1,Music Box Brasil HD
+http://177.52.216.28:8000/play/a06d
+#EXTINF:-1,Prime Box Brasil HD
+http://177.52.216.28:8000/play/a06b
+#EXTINF:0, RECORD NEWS
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/video.m3u8
-#EXTINF:0, MULTICULTURA UNIVESP
+https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/format720p_RECORD_NEWS.m3u8
+#EXTINF:0 type="video" channelId="-1", RBTV
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1991142281.m3u8
+#EXTINF:0 type="video" channelId="-1", TBO-RBTV
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w958337733.m3u8
+#EXTINF:0 type="video" channelId="-1", RSC-RBTV
+http://177.11.96.110:9080/hls/sictv.m3u8
+#EXTINF:0 type="video" channelId="-1", TV BRUSQUE-RBTV
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w914519367.m3u8
+#EXTINF:-1,CNT
+http://143.255.128.190:8000/play/a011
+#EXTINF:-1,TV ANHANGUERA GOIANIA HD
+http://lista.lorddark.club:80/8664421790/1602827554/19069
+#EXTINF:-1,RECORD GOIANIA HD
+http://lista.lorddark.club:80/8664421790/1602827554/48482
+#EXTINF:-1,TVSD HD
+http://lista.lorddark.club:80/8664421790/1602827554/48462
+#EXTINF:-1,TVSD HD LINK2
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w848698002_b1000000.m3u8
+#EXTINF:-1,TV GOIANIA BAND GOIANIA HD
+http://lista.lorddark.club:80/8664421790/1602827554/48463
+#EXTINF:-1,TBC GOIANIA
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/chunklist_w101220798.m3u8
+#EXTINF:-1,TV UFG
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w487916906_b1544100_sleng.m3u8
+#EXTINF:-1,TV ANHANGUERA PALMAS HD
+http://177.52.216.27:8000/play/a00x
+#EXTINF:-1,BAND PALMAS HD
+http://177.52.216.27:8000/play/a00s
+#EXTINF:-1,RECORD NEWS TO
+http://177.52.216.27:8000/play/a00t
+#EXTINF:-1,REDE TV HD
+http://177.52.216.27:8000/play/a00z
+#EXTINF:-1,RecordTV HD
+http://177.52.216.27:8000/play/a00v
+#EXTINF:-1,SBT TOCANTINS HD
+http://177.52.216.27:8000/play/a00w
+#EXTINF:5400,GLOBO RJO
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/UNIVESP_PFZ/video.m3u8
-#EXTINF:0, SBT
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1,InterTV
+http://177.52.216.28:8000/play/a07f
+#EXTINF:-1,INTERTV SM
+http://177.52.216.28:8000/play/a07h
+#EXTINF:-1,INTERTV VA
+http://177.52.216.28:8000/play/a07g
+#EXTINF:0, TV BAHIA
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SBT_HD_13-17-13-1-/tracks-v1a1/mono.m3u8
-#EXTINF:0, GLOBO SP
+https://canal1.proxy.tokplay.com.br/streams/TV_BAHIA/format720p_TV_BAHIA.m3u8
+#EXTINF:0, RECORD TV ITAPOAN
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/Glob_13131313131316_1_1_/tracks-v1a1/mono.m3u8
-#EXTINF:0, RECORD
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/RECORD_HD_13/tracks-v1a1/mono.m3u8
+https://canal1.proxy.tokplay.com.br/streams/TV_ITAPOAN/format720p_TV_ITAPOAN.m3u8
 #EXTINF:0, REDE TV
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/REDETV_HD_SIMBA_/tracks-v1a1/mono.m3u8
+https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
+#EXTINF:0, BAND RBA
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w282885039.m3u8
+#EXTINF:0, CULTURA
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/streams/CULTURA/format720p_CULTURA.m3u8
+#EXTINF:0, GAZETA SP
+#EXTVLCOPT:network-caching=1000
+https://canal1.proxy.tokplay.com.br/streams/GAZETA/format720p_GAZETA.m3u8
 #EXTINF:0, REDE TV 2
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
-#EXTINF:0, GAZETA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_GAZETA_NX_/tracks-v1a1/mono.m3u8
 #EXTINF:0, BAND HD
 #EXTVLCOPT:network-caching=1000
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1069726845.m3u8
-#EXTINF:0, BAND INTERIOR
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1_13_/video.m3u8
-#EXTINF:0, RBTV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/sictv/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV TEM
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_TEM_H_13/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV SOROCABA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/t1-13-17_2_/tracks-v1a1/mono.m3u8
 #EXTINF:0, FUTURA
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/FUTURA/format720p_FUTURA.m3u8
-#EXTINF:0, TV BRASIL
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_BRASIL_NX_/video.m3u8
-#EXTINF:0, TV BRASIL 2
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_BRASIL_2/video.m3u8
-#EXTINF:0, CNN BRASIL
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CNN_BR_OK_1_/tracks-v1a1/mono.m3u8
-#EXTINF:0, RECORD NEWS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/RECORD_NEWS/tracks-v1a1a2/mono.m3u8
-#EXTINF:0, BANDNEWS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1a2/mono.m3u8
-#EXTINF:0, BAND SPORTS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/band_spor_9913_/tracks-v1a1/mono.m3u8
-#EXTINF:0, SMITHSONIAN
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SMITHSONIAN_HD/video.m3u8
-#EXTINF:0, ARTE 1
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1a2/mono.m3u8
-#EXTINF:0, TERRA VIVA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TERRAVIVA/tracks-v1a1a2/mono.m3u8
-#EXTINF:0, AGRO +
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/AGROMAIS_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, CANAL DO BOI
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/video.m3u8
-#EXTINF:0, TRAVEL BOX
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TRAVEL_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:0, CAN??O NOVA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8
-#EXTINF:0, APARECIDA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_APARECIDA/video.m3u8
-#EXTINF:22, NOVO TEMPO HD
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/tracks-v1a1/mono.m3u8
-#EXTINF:0, REDE GENESIS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/GENESIS_HD/video.m3u8
-#EXTINF:0, COMEDY CENTRAL
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/comed_central-tk1/tracks-v1a1/mono.m3u8
-#EXTINF:0, PARAMOUNT
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/PCBR_HD_NX_9998_123/tracks-v1a1/mono.m3u8
-#EXTINF:0, MTV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8
-#EXTINF:0, MTV LIVE HD
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
-#EXTINF:0, ZOOMOO
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
-#EXTINF:0, REDBULL TV
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0, NICK
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8
-#EXTINF:0, NICK JR
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/NICK_JR_00999_1_/tracks-v1a1/mono.m3u8
-#EXTINF:0, WOHOO
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
-#EXTINF:0, FISH TV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/FISH_TV_NX/video.m3u8
-#EXTINF:0, SESCTV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SESC_TV/video.m3u8
-#EXTINF:0, FASHION TV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/FASHIONONE_HD/video.m3u8
-#EXTINF:0, ZOOMOO BR
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/video.m3u8
-#EXTINF:0, CCTV4
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CCTV/video.m3u8
-#EXTINF:0, CGTN DOCUMENTARY
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CGNT_DOCUMENTARY/video.m3u8
-#EXTINF:0, CGTN AMERICA E
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CGNT/video.m3u8
-#EXTINF:0, CGTN ESPANOL
-#EXTVLCOPT:network-caching=1000
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0, REDE METROPOLE
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/METROPOLE/video.m3u8
-#EXTINF:0, REDE METROPOLE BACKUP
-#EXTVLCOPT:network-caching=1000
-http://187.33.200.235:9000/hls/redemetropole.m3u8
-#EXTINF:0, TV COM BRASIL
-#EXTVLCOPT:network-caching=1000
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w537120110.m3u8
-#EXTINF:0, PIXTV
-#EXTVLCOPT:network-caching=1000
-https://tmwpix.com:7007/pix/pixtv_hi.m3u8
-#EXTINF:0, LOADING
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
-#EXTINF:0, TELESUR
-#EXTVLCOPT:network-caching=1000
-https://d34atfaah7iyyu.cloudfront.net/mbliveOcas/hd/chunklist_w1571657473.m3u8
-#EXTINF:0, PRIMEBOX BRAZIL
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/PRIME_HD_/video.m3u8
-#EXTINF:0, TRACE SPORTS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TRACE_SPORT/video.m3u8
-#EXTINF:0, AMC
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8
-#EXTINF:0, FILM & ARTS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1a2a3l2/mono.m3u8
-#EXTINF:0, TBS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8
-#EXTINF:0, CANAL SAUDE
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_SAUDE/video.m3u8
-#EXTINF:0, ARIRANG
-#EXTVLCOPT:network-caching=1000
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:0, NHK WORLD
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/NHK/tracks-v1a1/mono.m3u8
-#EXTINF:0, CLASSIC HITS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/classichit/video.m3u8
-#EXTINF:0, ALJAZZERA
-#EXTVLCOPT:network-caching=1000
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:0, TVWA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/video.m3u8?
-#EXTINF:0, TV TROPICAL RECORD RN
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/TV_TROPICAL_/video.m3u8
-#EXTINF:0, URBAN SERIES
-#EXTVLCOPT:network-caching=1000
-https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w1589034508.m3u8
-#EXTINF:29, URBAN MOVIES
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/URBAN_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:0, URBAN KIDS
-#EXTVLCOPT:network-caching=1000
-https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w1092172252.m3u8
-#EXTINF:0, URBAN DOCS
-#EXTVLCOPT:network-caching=1000
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1433878076.m3u8
-#EXTINF:0, URBAN TURBO
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/URBAN_TURBO/tracks-v1a1/mono.m3u8
-#EXTINF:0, URBAN TV
-#EXTVLCOPT:network-caching=1000
-https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1825527269.m3u8
-#EXTINF:0, CANAL AMERICA LATINO
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/AMERICOLATINO/video.m3u8
-#EXTINF:0, CANAL HITTS
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/HITTS/video.m3u8
-#EXTINF:0, CANAL BRA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/BRAmusic/video.m3u8
-#EXTINF:0, CANAL MEGA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/MEGA/video.m3u8
-#EXTINF:0, CANAL CULT
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8
-#EXTINF:0, CONECTV
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/CONECT_TV/video.m3u8
-#EXTINF:0, ARGENTINISSIMA SATELITAL
-#EXTVLCOPT:network-caching=1000
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w2091833482_b1912000_sleng.m3u8
-#EXTINF:0, RADIO CBN SP
-#EXTVLCOPT:network-caching=1000
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0, CANAL SCH
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SCH/video.m3u8
-#EXTINF:0, REDE VIDA
-#EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/REDE_VIDA/video.m3u8
+#EXTINF:-1,ANTENA 10 HD
+http://170.80.82.6:8000/play/a008/index.m3u8
+#EXTINF:-1,BAND HD
+http://170.80.82.6:8000/play/a00j/index.m3u8
+#EXTINF:-1,TV CIDADE VERDE HD
+http://170.80.82.6:8000/play/a004/index.m3u8
+#EXTINF:-1,TV COSTA NORTE HD
+http://170.80.82.6:8000/play/a00f/index.m3u8
+#EXTINF:-1,TV Clube HD
+http://170.80.82.6:8000/play/a006/index.m3u8
+#EXTINF:-1,TV MEIO NORTE HD
+http://170.80.82.6:8000/play/a00h/index.m3u8
+#EXTINF:-1,CANCA NOVA HD
+http://143.255.128.190:8000/play/a00z
+#EXTINF:-1,LOADING HD
+http://143.255.128.190:8000/play/a00x
+#EXTINF:-1,NOVO TEMPO HD
+http://143.255.128.190:8000/play/a00o
+#EXTINF:-1,R.DIO C.MARA
+http://143.255.128.190:8000/play/a00a
+#EXTINF:-1,REDEVIDA EDUCA.Ô
+http://143.255.128.190:8000/play/a00u
+#EXTINF:-1,REDEVIDA EDUCA.Ô 2
+http://143.255.128.190:8000/play/a00v
+#EXTINF:-1,REDEVIDA HD
+http://143.255.128.190:8000/play/a00t
+#EXTINF:-1,TV APDA HD
+http://143.255.128.190:8000/play/a00q
+#EXTINF:-1,TV ARAPUAN HD
+http://143.255.128.190:8000/play/a00k
+#EXTINF:-1,TV C.MARA
+http://143.255.128.190:8000/play/a008
+#EXTINF:-1,TV C.MARA JP
+http://143.255.128.190:8000/play/a009
+#EXTINF:-1,TV CABO BRANCO HD
+http://143.255.128.190:8000/play/a00d
+#EXTINF:-1,TV CORREIO HD
+http://143.255.128.190:8000/play/a00j
+#EXTINF:-1,TV MANAIRA HD
+http://143.255.128.190:8000/play/a00i
+#EXTINF:-1,TV MIRAMAR HD
+http://143.255.128.190:8000/play/a006
+#EXTINF:-1,TV TAMBAU HD
+http://143.255.128.190:8000/play/a007
+#EXTINF:-1,TV UFPB HD
+http://143.255.128.190:8000/play/a00m
 #EXTINF:-1,MERIDIONAL BAND HD
 http://191.37.223.131:8000/play/a00k/index.m3u8
 #EXTINF:-1,REDE AMAZONICA RO HD
@@ -258,42 +146,6 @@ http://191.37.223.131:8000/play/a00e/index.m3u8
 http://187.33.160.24:8000/play/10/index.m3u8
 #EXTINF:-1,[2081] SBT CHAPECO
 http://187.33.160.24:8000/play/87/index.m3u8
-#EXTINF:-1,[2090] Band
-http://187.33.160.24:8000/play/95/index.m3u8
-#EXTINF:-1,[2090] Canal do Boi
-http://187.33.160.24:8000/play/17/index.m3u8
-#EXTINF:-1,[2090] Canção Nova
-http://187.33.160.24:8000/play/23/index.m3u8
-#EXTINF:-1,[2090] Cultura
-http://187.33.160.24:8000/play/20/index.m3u8
-#EXTINF:-1,[2090] Futura
-http://187.33.160.24:8000/play/96/index.m3u8
-#EXTINF:-1,[2090] NBR
-http://187.33.160.24:8000/play/15/index.m3u8
-#EXTINF:-1,[2090] Record
-http://187.33.160.24:8000/play/92/index.m3u8
-#EXTINF:-1,[2090] Rede Seculo 21
-http://187.33.160.24:8000/play/18/index.m3u8
-#EXTINF:-1,[2090] Rede TV
-http://187.33.160.24:8000/play/94/index.m3u8
-#EXTINF:-1,[2090] Rede Vida
-http://187.33.160.24:8000/play/24/index.m3u8
-#EXTINF:-1,[2090] TV Aparecida
-http://187.33.160.24:8000/play/90/index.m3u8
-#EXTINF:-1,[2090] TV Assembleia/TV Camara
-http://187.33.160.24:8000/play/16/index.m3u8
-#EXTINF:-1,[2090] TV Brasil
-http://187.33.160.24:8000/play/14/index.m3u8
-#EXTINF:-1,[2090] TV Camara dos Deputados
-http://187.33.160.24:8000/play/12/index.m3u8
-#EXTINF:-1,[2090] TV Escola
-http://187.33.160.24:8000/play/21/index.m3u8
-#EXTINF:-1,[2090] TV Justiça
-http://187.33.160.24:8000/play/22/index.m3u8
-#EXTINF:-1,[2090] TV Senado
-http://187.33.160.24:8000/play/13/index.m3u8
-#EXTINF:-1,[2090] Terraviva
-http://187.33.160.24:8000/play/19/index.m3u8
 #EXTINF:-1,[2091] RPC HD
 http://187.33.160.24:8000/play/6/index.m3u8
 #EXTINF:-1,[2091] Record Ric PR
@@ -314,76 +166,102 @@ http://187.33.160.24:8000/play/2/index.m3u8
 http://187.33.160.24:8000/play/3/index.m3u8
 #EXTINF:-1,[HTTP] GEN TV CHAPECO
 http://187.33.160.24:8000/play/11/index.m3u8
-#EXTINF:-1,AMC HD | 2
-http://177.71.71.83:8002/play/amc
-#EXTINF:-1,Band HD | 6
-http://177.71.71.83:8002/play/band
-#EXTINF:-1,CNN Brasil HD | 16
-http://177.71.71.83:8002/play/cnnbrasil
-#EXTINF:-1,Canal do Boi HD | 12
-http://177.71.71.83:8002/play/canaldoboi
-#EXTINF:-1,Cinemax HD | 15
-http://177.71.71.83:8002/play/cinemax
-#EXTINF:-1,Comedy Central HD | 18
-http://177.71.71.83:8002/play/comedycentral
-#EXTINF:-1,Cultura HD | 21
-http://177.71.71.83:8002/play/cultura
-#EXTINF:-1,Disney Junior HD | 30
-http://177.71.71.83:8002/play/disneyjunior
-#EXTINF:-1,FOX Sports 2 HD | 38
-http://177.71.71.83:8002/play/foxsports2
-#EXTINF:-1,FOX Sports HD | 39
-http://177.71.71.83:8002/play/foxsports
-#EXTINF:-1,FX HD | 41
-http://177.71.71.83:8002/play/fx
-#EXTINF:-1,HBO Family HD | 46
-http://177.71.71.83:8002/play/hbofamily
-#EXTINF:-1,HBO HD | 47
-http://177.71.71.83:8002/play/hbo
-#EXTINF:-1,HBO MUNDI HD | 48
-http://177.71.71.83:8002/play/hbomundi
-#EXTINF:-1,HBO POP HD | 49
-http://177.71.71.83:8002/play/hbopop
-#EXTINF:-1,HBO Signature HD | 50
-http://177.71.71.83:8002/play/hbosignature
-#EXTINF:-1,HBO XTREME HD | 51
-http://177.71.71.83:8002/play/hboxtreme
-#EXTINF:-1,HBO+ HD | 52
-http://177.71.71.83:8002/play/hboplus
-#EXTINF:-1,HBO2 HD | 53
-http://177.71.71.83:8002/play/hbo2
-#EXTINF:-1,Like HD | 59
-http://177.71.71.83:8002/play/like
-#EXTINF:-1,MTV HD | 62
-http://177.71.71.83:8002/play/mtv
-#EXTINF:-1,Nat Geo Kids HD | 66
-http://177.71.71.83:8002/play/natgeokids
-#EXTINF:-1,NatGeo Wild HD | 67
-http://177.71.71.83:8002/play/natgeowild
-#EXTINF:-1,National Geographic HD | 68
-http://177.71.71.83:8002/play/nationalgeographic
-#EXTINF:-1,Pai Eterno HD | 72
-http://177.71.71.83:8002/play/paieterno
-#EXTINF:-1,Paramount Network HD | 73
-http://177.71.71.83:8002/play/paramountnetwork
-#EXTINF:-1,SBT HD | 84
-http://177.71.71.83:8002/play/sbt
-#EXTINF:-1,STAR CHANNEL HD | 90
-http://177.71.71.83:8002/play/starchannel
-#EXTINF:-1,STAR LIFE HD | 93
-http://177.71.71.83:8002/play/starlife
-#EXTINF:-1,Smithsonian HD | 85
-http://177.71.71.83:8002/play/smithsonian
-#EXTINF:-1,TV Aparecida | 107
-http://177.71.71.83:8002/play/tvaparecida
-#EXTINF:-1,TV Brasil HD | 108
-http://177.71.71.83:8002/play/tvbrasil
-#EXTINF:-1,TV Ra Tim Bum HD | 110
-http://177.71.71.83:8002/play/tvratimbum
-#EXTINF:-1,TV Rio Sul - Globo HD | 111
-http://177.71.71.83:8002/play/tvriosul
-#EXTINF:-1,VH1 | 113
-http://177.71.71.83:8002/play/vh1
-#EXTINF:0, SEX PRIVE
+#EXTINF:0, REDBULL TV
 #EXTVLCOPT:network-caching=1000
-https://origin-02.nxplay.com.br/SEXPRIVE_HD_/tracks-v1a1/mono.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0, CGTN ESPANOL
+#EXTVLCOPT:network-caching=1000
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0, REDE METROPOLE BACKUP
+#EXTVLCOPT:network-caching=1000
+http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:0, TV COM BRASIL
+#EXTVLCOPT:network-caching=1000
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w537120110.m3u8
+#EXTINF:0, PIXTV
+#EXTVLCOPT:network-caching=1000
+https://tmwpix.com:7007/pix/pixtv_hi.m3u8
+#EXTINF:0, TELESUR
+#EXTVLCOPT:network-caching=1000
+https://d34atfaah7iyyu.cloudfront.net/mbliveOcas/hd/chunklist_w1571657473.m3u8
+#EXTINF:0, ARIRANG
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:0, ALJAZZERA
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:0, URBAN SERIES
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/chunklist_w1589034508.m3u8
+#EXTINF:29, URBAN MOVIES
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/index.m3u8?sjwt=
+#EXTINF:0, URBAN KIDS
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/chunklist_w1092172252.m3u8
+#EXTINF:0, URBAN DOCS
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/chunklist_w1433878076.m3u8
+#EXTINF:0, URBAN TURBO
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvturbogmail.com/urbantvturbogmail.com/index.m3u8
+#EXTINF:0, URBAN TV
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist_w1825527269.m3u8
+#EXTINF:0, ARGENTINISSIMA SATELITAL
+#EXTVLCOPT:network-caching=1000
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w2091833482_b1912000_sleng.m3u8
+#EXTINF:-1,CANAL 21
+http://177.52.216.28:8000/play/a08s
+#EXTINF:-1,CANAL SAUDE
+http://177.52.216.28:8000/play/a06n
+#EXTINF:-1,CANCAO NOVA HD
+http://177.52.216.28:8000/play/a070
+#EXTINF:-1,CULTURA HD
+http://177.52.216.28:8000/play/a073
+#EXTINF:-1,EDUCACAO
+http://177.52.216.28:8000/play/a078
+#EXTINF:-1,Fashion HD
+http://177.52.216.28:8000/play/a06f
+#EXTINF:-1,GAZETA HD
+http://177.52.216.28:8000/play/a07z
+#EXTINF:-1,RA-TIM-BUM
+http://177.52.216.28:8000/play/a062
+#EXTINF:-1,RA-TIM-BUM HD
+http://177.52.216.28:8000/play/a063
+#EXTINF:-1,Rede Familia HD
+http://177.52.216.28:8000/play/a07a
+#EXTINF:-1,Rede SØculo 21 Educa
+http://177.52.216.28:8000/play/a06y
+#EXTINF:-1,Rede SØculo 21 HD
+http://177.52.216.28:8000/play/a06x
+#EXTINF:-1,SPNET HD
+http://177.52.216.28:8000/play/a060
+#EXTINF:-1,TV AC
+http://177.52.216.28:8000/play/a09k
+#EXTINF:-1,TV BRASIL
+http://177.52.216.28:8000/play/a06k
+#EXTINF:-1,TV BRASIL 2
+http://177.52.216.28:8000/play/a06l
+#EXTINF:-1,TV EDUCATIVA 1SEG
+http://177.52.216.28:8000/play/a077
+#EXTINF:-1,TV EDUCATIVA HD
+http://177.52.216.28:8000/play/a074
+#EXTINF:-1,TV ESCOLA
+http://177.52.216.28:8000/play/a06m
+#EXTINF:-1,TV INES Digital
+http://177.52.216.28:8000/play/a081
+#EXTINF:-1,TV1
+http://177.52.216.28:8000/play/a079
+#EXTINF:-1,TV RA-TIM-BUM
+http://177.52.216.28:8000/play/a075
+#EXTINF:-1,TVT HD
+http://177.52.216.28:8000/play/a09l
+#EXTINF:-1,Terra Viva
+http://177.52.216.28:8000/play/a09z
+#EXTINF:-1,UNIVESP
+http://177.52.216.28:8000/play/a066
+#EXTINF:0, RADIO CBN SP
+#EXTVLCOPT:network-caching=1000
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
