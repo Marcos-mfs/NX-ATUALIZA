@@ -599,6 +599,60 @@ http://185.236.229.21:9981/play/a05o
 #EXTINF:-1,VH1
 http://185.236.229.21:9981/play/a03d
 
+#EXTINF:-1,Canal Histðria HD
+http://94.61.44.29:7500/play/a03o/index.m3u8
+#EXTINF:-1,Canal Panda HD
+http://94.61.44.29:7500/play/a037/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://94.61.44.29:7500/play/a04a/index.m3u8
+#EXTINF:-1,DogTV
+http://94.61.44.29:7500/play/a036/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://94.61.44.29:7500/play/a03v/index.m3u8
+#EXTINF:-1,Fight Network HD
+http://94.61.44.29:7500/play/a03r/index.m3u8
+#EXTINF:-1,Food Network HD
+http://94.61.44.29:7500/play/a041/index.m3u8
+#EXTINF:-1,Globo HD
+http://94.61.44.29:7500/play/a03f/index.m3u8
+#EXTINF:-1,Globo Now HD
+http://94.61.44.29:7500/play/a047/index.m3u8
+#EXTINF:-1,MTV Live
+http://94.61.44.29:7500/play/a04v/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://94.61.44.29:7500/play/a03e/index.m3u8
+#EXTINF:-1,Motorvision HD
+http://94.61.44.29:7500/play/a040/index.m3u8
+#EXTINF:-1,NOS Studios
+http://94.61.44.29:7500/play/a03c/index.m3u8
+#EXTINF:-1,S+ HD
+http://94.61.44.29:7500/play/a032/index.m3u8
+#EXTINF:-1,SIC
+http://94.61.44.29:7500/play/a04q/index.m3u8
+#EXTINF:-1,SIC HD
+http://94.61.44.29:7500/play/a04t/index.m3u8
+#EXTINF:-1,SIC Radical HD
+http://94.61.44.29:7500/play/a03g/index.m3u8
+#EXTINF:-1,STV NotŦcias
+http://94.61.44.29:7500/play/a04b/index.m3u8
+#EXTINF:-1,Sport TV 5 HD
+http://94.61.44.29:7500/play/a035/index.m3u8
+#EXTINF:-1,TV Record HD
+http://94.61.44.29:7500/play/a03x/index.m3u8
+#EXTINF:-1,TVI
+http://94.61.44.29:7500/play/a04r/index.m3u8
+#EXTINF:-1,TVI FicĿªo HD
+http://94.61.44.29:7500/play/a03z/index.m3u8
+#EXTINF:-1,TVI HD
+http://94.61.44.29:7500/play/a04u/index.m3u8
+#EXTINF:-1,TVI Reality HD
+http://94.61.44.29:7500/play/a046/index.m3u8
+#EXTINF:-1,Trace Urban HD
+http://94.61.44.29:7500/play/a043/index.m3u8
+#EXTINF:-1,Travel Channel
+http://94.61.44.29:7500/play/a03a/index.m3u8
+#EXTINF:-1,ZAP Viva HD
+http://94.61.44.29:7500/play/a03q/index.m3u8
 #EXTINF:-1,Venus
 http://185.236.229.21:9981/play/a05j
 #EXTINF:-1,ZAP Viva HD
