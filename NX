@@ -3,12 +3,12 @@
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="video" channelId="-1", PCA CIVICA
 https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunklist_w1321264645.m3u8
-#EXTINF:-1,Travel Box Brasil
-http://177.52.216.28:8000/play/a06g
-#EXTINF:-1,Music Box Brasil HD
-http://177.52.216.28:8000/play/a06d
-#EXTINF:-1,Prime Box Brasil HD
-http://177.52.216.28:8000/play/a06b
+#EXTINF:-1,RBSTV
+http://170.81.248.45:8000/play/a005/index.m3u8
+#EXTINF:-1,Record
+http://170.81.248.45:8000/play/a007/index.m3u8
+#EXTINF:-1,SBTRS_HD
+http://170.81.248.45:8000/play/a009/index.m3u8
 #EXTINF:0, RECORD NEWS
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/format720p_RECORD_NEWS.m3u8
@@ -22,16 +22,8 @@ http://177.11.96.110:9080/hls/sictv.m3u8
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w914519367.m3u8
 #EXTINF:-1,CNT
 http://143.255.128.190:8000/play/a011
-#EXTINF:-1,TV ANHANGUERA GOIANIA HD
-http://lista.lorddark.club:80/8664421790/1602827554/19069
-#EXTINF:-1,RECORD GOIANIA HD
-http://lista.lorddark.club:80/8664421790/1602827554/48482
-#EXTINF:-1,TVSD HD
-http://lista.lorddark.club:80/8664421790/1602827554/48462
 #EXTINF:-1,TVSD HD LINK2
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w848698002_b1000000.m3u8
-#EXTINF:-1,TV GOIANIA BAND GOIANIA HD
-http://lista.lorddark.club:80/8664421790/1602827554/48463
 #EXTINF:-1,TBC GOIANIA
 http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/chunklist_w101220798.m3u8
 #EXTINF:-1,TV UFG
@@ -48,15 +40,6 @@ http://177.52.216.27:8000/play/a00z
 http://177.52.216.27:8000/play/a00v
 #EXTINF:-1,SBT TOCANTINS HD
 http://177.52.216.27:8000/play/a00w
-#EXTINF:5400,GLOBO RJO
-#EXTVLCOPT:network-caching=1000
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1,InterTV
-http://177.52.216.28:8000/play/a07f
-#EXTINF:-1,INTERTV SM
-http://177.52.216.28:8000/play/a07h
-#EXTINF:-1,INTERTV VA
-http://177.52.216.28:8000/play/a07g
 #EXTINF:0, TV BAHIA
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/TV_BAHIA/format720p_TV_BAHIA.m3u8
