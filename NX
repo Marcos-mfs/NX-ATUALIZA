@@ -571,5 +571,108 @@ http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:-1 ,Canal Teste
 https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
+#EXTINF:-1,ABC TV
+http://117.20.65.254:9981/stream/channelid/241884232
+#EXTINF:-1,SBS ONE
+http://117.20.65.254:9981/stream/channelid/1462714718
+#EXTINF:-1,10 Townsville
+http://117.20.65.254:9981/stream/channelid/145179286
+#EXTINF:-1,7 Townsville
+http://117.20.65.254:9981/stream/channelid/1083470000
+#EXTINF:-1,Channel 9
+http://117.20.65.254:9981/stream/channelid/1606769625
+
+#EXTINF:-1,ABCTV HD
+http://117.20.65.254:9981/stream/channelid/728853196
+
+#EXTINF:-1,ABC TV
+http://117.20.65.254:9981/stream/channelid/1889904184
+
+#EXTINF:-1,ABCKids/TVPlus
+http://117.20.65.254:9981/stream/channelid/95778669
+
+#EXTINF:-1,ABC ME
+http://117.20.65.254:9981/stream/channelid/1009528844
+
+#EXTINF:-1,ABC NEWS
+http://117.20.65.254:9981/stream/channelid/1605162880
+
+#EXTINF:-1,SBS ONE HD
+http://117.20.65.254:9981/stream/channelid/128035345
+
+#EXTINF:-1,SBS VICELAND HD
+http://117.20.65.254:9981/stream/channelid/1984022425
+
+#EXTINF:-1,SBS World Movies
+http://117.20.65.254:9981/stream/channelid/1429633835
+
+#EXTINF:-1,SBS Food
+http://117.20.65.254:9981/stream/channelid/1481906937
+
+#EXTINF:-1,NITV
+http://117.20.65.254:9981/stream/channelid/1054394327
+
+#EXTINF:-1,10 HD Townsville
+http://117.20.65.254:9981/stream/channelid/2070179119
+
+#EXTINF:-1,10 Townsville
+http://117.20.65.254:9981/stream/channelid/1791809313
+
+#EXTINF:-1,10 Peach
+http://117.20.65.254:9981/stream/channelid/309215096
+
+#EXTINF:-1,10 BOLD
+http://117.20.65.254:9981/stream/channelid/2080704683
+
+#EXTINF:-1,10 SHAKE
+http://117.20.65.254:9981/stream/channelid/1922882980
+
+#EXTINF:-1,SBN
+http://117.20.65.254:9981/stream/channelid/1036829497
+
+#EXTINF:-1,Satellite TVNews Regional
+http://117.20.65.254:9981/stream/channelid/1732950358
+
+#EXTINF:-1,7 Townsville
+http://117.20.65.254:9981/stream/channelid/196339173
+
+#EXTINF:-1,7 Townsville
+http://117.20.65.254:9981/stream/channelid/667550072
+
+#EXTINF:-1,7TWO Townsville
+http://117.20.65.254:9981/stream/channelid/330265638
+
+#EXTINF:-1,7mate Townsville
+http://117.20.65.254:9981/stream/channelid/1735688969
+
+#EXTINF:-1,7mateHD Townsville
+http://117.20.65.254:9981/stream/channelid/713010428
+
+#EXTINF:-1,openshop
+http://117.20.65.254:9981/stream/channelid/1747657277
+
+#EXTINF:-1,7flix Townsville
+http://117.20.65.254:9981/stream/channelid/1378452331
+
+#EXTINF:-1,N/A
+http://117.20.65.254:9981/stream/channelid/1386513182
+
+#EXTINF:-1,9HD
+http://117.20.65.254:9981/stream/channelid/42747721
+
+#EXTINF:-1,9Gem
+http://117.20.65.254:9981/stream/channelid/1116797630
+
+#EXTINF:-1,9Go!
+http://117.20.65.254:9981/stream/channelid/1720794045
+
+#EXTINF:-1,9Life
+http://117.20.65.254:9981/stream/channelid/922697146
+
+#EXTINF:-1,TVSN
+http://117.20.65.254:9981/stream/channelid/1834525929
+
+#EXTINF:-1,GOLD
+http://117.20.65.254:9981/stream/channelid/2132216871
 
 
