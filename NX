@@ -34,22 +34,22 @@ http://177.52.216.27:8000/play/a00v
 http://177.52.216.27:8000/play/a00w
 #EXTINF:0, TV BAHIA
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/TV_BAHIA/format720p_TV_BAHIA.m3u8
+https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 #EXTINF:0, RECORD TV ITAPOAN
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/TV_ITAPOAN/format720p_TV_ITAPOAN.m3u8
 #EXTINF:0, REDE TV
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
+https://canal1.proxy.tokplay.com.br/videos/REDE_TV/format720p_REDE_TV.m3u8
 #EXTINF:0, BAND RBA
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w282885039.m3u8
 #EXTINF:0, CULTURA
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/CULTURA/format720p_CULTURA.m3u8
+https://canal1.proxy.tokplay.com.br/videos/CULTURA/format720p_CULTURA.m3u8
 #EXTINF:0, GAZETA SP
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/GAZETA/format720p_GAZETA.m3u8
+https://canal1.proxy.tokplay.com.br/videos/GAZETA/format720p_GAZETA.m3u8
 #EXTINF:0, REDE TV 2
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
