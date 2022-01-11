@@ -675,4 +675,933 @@ http://117.20.65.254:9981/stream/channelid/1834525929
 #EXTINF:-1,GOLD
 http://117.20.65.254:9981/stream/channelid/2132216871
 
+#EXTINF:-1,RUSSIA
 
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+#EXTINF:-1,RUSSIA
+
+#EXTINF:-1,RUSSIA
+
+#EXTM3U url-tvg="http://91.77.168.251:2020/epg.xml.gz?q=eyJ1c2VySWQiOiJ0ZXN0In0.dqNlvMmdx5T3QPcmYHAI_BQRJUhnD-IIi7hcQqB266c6PLuOzUda5CycSlvqXL_VGVJQRDnDAeDB223k_RNQAw" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-id="hlsproxy-362" tvg-name="Первый канал" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/perviy.png",Первый канал
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/20a7f5a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-362" tvg-name="Первый канал HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/perviy-hd.png",Первый канал HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/4b18a6d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-362" tvg-name="Первый канал (+1)" group-title="Общие" tvg-shift="+1" tvg-logo="http://91.77.168.251:2020/logos/perviy.png",Первый канал (+1)
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/3b17c111/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-391" tvg-name="Россия 1" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/rossia1.png",Россия 1
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n3ecdc85e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-391" tvg-name="Россия 1 HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/rossia1-hd.png",Россия 1 HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n62de6d04/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-319" tvg-name="НТВ" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/ntv.png",НТВ
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n7d4f90ef/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="НТВ HD" group-title="Общие" tvg-id="hlsproxy-319" tvg-logo="http://91.77.168.251:2020/logos/ntv-hd.png",НТВ HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/5c896ae3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-377" tvg-name="Пятница!" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/pyatnica.png",Пятница!
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n21e82f3a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-377" tvg-name="Пятница! HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/pyatnica-hd.png",Пятница! HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n3d52378/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-439" tvg-name="ТНТ" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/tnt.png",ТНТ
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n7d4f7eb5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-439" tvg-name="ТНТ HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/tnt-hd.png",ТНТ HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/44625ebf/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-336" tvg-name="ТНТ4 HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/tnt4.png",ТНТ4 HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/47f1fb25/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-336" tvg-name="ТНТ4" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/tnt4.png",ТНТ4
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n2ca057b7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-407" tvg-name="СТС" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/sts.png",СТС
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n7d4f81dc/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-407" tvg-name="СТС HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/sts-hd.png",СТС HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/488d9944/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-409" tvg-name="СТС Love" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/sts-love.png",СТС Love
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/82c4a39/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-382" tvg-name="РЕН ТВ" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/rentv.png",РЕН ТВ
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/763a4004/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-382" tvg-name="РЕН ТВ HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/rentv-hd.png",РЕН ТВ HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n4635e75/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-246" tvg-name="Домашний" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/domashniy.png",Домашний
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/nbe3c205/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-246" tvg-name="Домашний HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/domashniy.png",Домашний HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/66ba85/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-431" tvg-name="Супер" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/subbota.png",Супер
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n67668354/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-431" tvg-name="Супер HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/subbota-hd.png",Супер HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/6ca54457/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-259" tvg-name="Звезда" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/zvezda.png",Звезда
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/20238680/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-259" tvg-name="Звезда HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/zvezda.png",Звезда HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/4943648/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-299" tvg-name="Мир" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/mir.png",Мир
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/5285991d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-299" tvg-name="Мир (+4)" group-title="Общие" tvg-shift="+4" tvg-logo="http://91.77.168.251:2020/logos/mir.png",Мир (+4)
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n7cbfd117/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-299" tvg-name="Мир HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/mir-hd.png",Мир HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n45a84693/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Мир Premium" group-title="Общие" tvg-id="hlsproxy-8190" tvg-logo="http://91.77.168.251:2020/logos/mir-premium-hd.png",Мир Premium
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n75f8ab9a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-325" tvg-name="ОТР" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/otr-ru.png",ОТР
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n7d4f8d20/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-325" tvg-name="ОТР HD" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/otr-ru.png",ОТР HD
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n2b2b209d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-395" tvg-name="Россия К" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/rossiak.png",Россия К
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/1462509/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-378" tvg-name="Пятый канал" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/5-kanal.png",Пятый канал
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/6e1e4f6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-19" tvg-name="8 канал" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/8-kanal.png",8 канал
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n2217ada5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-51060" tvg-name="Красная линия" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/krasnaya-liniya.png",Красная линия
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/n20e80a08/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-369" tvg-name="Че!" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/che.png",Че!
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/5285bdec/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-474" tvg-name="Ю" group-title="Общие" tvg-logo="http://91.77.168.251:2020/logos/u-tv.png",Ю
+#EXTGRP:Общие
+http://91.77.168.251:2020/channel/428be326/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEL8MOpLmdwRrqXgvP.png" group-title="Познавательные" tvg-id="hlsproxy-34",Animal Planet HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/38a1af8/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Познавательные" tvg-id="hlsproxy-60" tvg-logo="http://91.77.168.251:2020/logos/discovery-channel.png",Discovery Channel
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/211b390b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Discovery Science HD" group-title="Познавательные" tvg-id="hlsproxy-62" tvg-logo="http://91.77.168.251:2020/logos/discovery-science-hd.png",Discovery Science HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/674e5c34/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="History 2" group-title="Познавательные" tvg-id="hlsproxy-10257" tvg-logo="http://91.77.168.251:2020/logos/history-2.png",History 2
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n302b21c2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="History HD" group-title="Познавательные" tvg-id="hlsproxy-95" tvg-logo="http://91.77.168.251:2020/logos/history-hd.png",History HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/2ac6ec70/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Nano TV" group-title="Познавательные" tvg-id="hlsproxy-127" tvg-logo="http://91.77.168.251:2020/logos/nano.png",Nano TV
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/2b3be878/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Nat Geo Wild FHD" group-title="Познавательные" tvg-id="hlsproxy-128" tvg-logo="http://91.77.168.251:2020/logos/nat-geo-wild-hd.png",Nat Geo Wild FHD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n2446f4ff/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="National Geographic" group-title="Познавательные" tvg-id="hlsproxy-130" tvg-logo="http://91.77.168.251:2020/logos/national-geographic.png",National Geographic
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n1fc8c362/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Nature Relaxation HD" group-title="Познавательные",Nature Relaxation HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n71e15fad/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55088" tvg-name="Travel Guide-TV" group-title="Познавательные" tvg-logo="http://91.77.168.251:2020/logos/travel-guide-tv.png",Travel Guide-TV
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n69078e7f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-611" tvg-name="Univer TV HD" group-title="Познавательные" tvg-logo="http://91.77.168.251:2020/logos/univer-hd.png",Univer TV HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/42bedc03/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Viasat Explore HD" group-title="Познавательные" tvg-id="hlsproxy-194" tvg-logo="http://91.77.168.251:2020/logos/viasat-explore-hd.png",Viasat Explore HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n2f07e516/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Viasat History" group-title="Познавательные" tvg-id="hlsproxy-196" tvg-logo="http://91.77.168.251:2020/logos/viasat-history.png",Viasat History
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/22e552f3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Познавательные" tvg-id="hlsproxy-197" tvg-logo="http://91.77.168.251:2020/logos/viasat-nature.png",Viasat Nature
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/n4fe9b998/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="WORLD HD" group-title="Познавательные" tvg-id="hlsproxy-21062" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ww/world_channel_us.png",WORLD HD
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/3b06fbd9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-1131" tvg-name="Глазами туриста 4K" group-title="Познавательные" tvg-logo="http://91.77.168.251:2020/logos/glazami-turista.png",Глазами туриста 4K
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/5d66b420/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8112" tvg-name="Новый мир" group-title="Познавательные" tvg-logo="http://91.77.168.251:2020/logos/novy-mir.png",Новый мир
+#EXTGRP:Познавательные
+http://91.77.168.251:2020/channel/2299d34c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-451" tvg-name="24 канал HD" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/24-kanal-ua.png",24 канал HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n2790601c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-12" tvg-name="34 канал" group-title="Украина" tvg-logo="http://i115.fastpic.org/big/2021/0824/50/7eb98bca63745cd29592b50be4a64c50.png",34 канал
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n4a843ce9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-749" tvg-name="Bambarbia HD" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/lfx3igb1bb1zmy7/bbb.png",Bambarbia HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/37d5e83f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="I-UA.TV HD" group-title="Украина",I-UA.TV HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n26e8578d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-266" tvg-name="Iнтер" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/inter.png",Iнтер
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n4e46b343/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8370" tvg-name="MostVideo TV HD" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/mostvideo-tv.png",MostVideo TV HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/1def5446/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Simon" group-title="Украина" tvg-id="hlsproxy-52872" tvg-logo="https://dl.dropboxusercontent.com/s/stzj0qfkzg13z5q/simon.jpg",Simon
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/2fe9defa/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-2241" tvg-name="TVA" group-title="Украина" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tva_ostbayern_de.png",TVA
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/2012df5a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8456" tvg-name="UA TV" group-title="Украина" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/uu/ua_tv_ua.png",UA TV
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n6cae631b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8456" tvg-name="UA TV HD" group-title="Украина" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/uu/ua_tv_ua.png",UA TV HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/5e27095c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-694" tvg-name="Z" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/tqxbmz483k4n6qe/Z.jpg",Z
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/56c0d1c9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-25" tvg-name="А1" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/a1-tv.png",А1
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/nad52727/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ВТВ Плюс" group-title="Украина" tvg-id="hlsproxy-8450" tvg-logo="https://dl.dropboxusercontent.com/s/2qexbr30uw5hamp/vtvplus.jpg",ВТВ Плюс
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/70347a46/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ГИТ" group-title="Украина",ГИТ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n22f35cea/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-458" tvg-name="Здоровье" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/zdorovie.png",Здоровье
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n6f56332c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ИТ3" group-title="Украина" tvg-id="hlsproxy-100164" tvg-logo="https://dl.dropboxusercontent.com/s/pl20o0u5f4dmd80/it3.png",ИТ3
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n4fcf254f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-270" tvg-name="К1" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/k1-ua.png",К1
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n233e00d5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-50497" tvg-name="МТВ" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/s5j5fek1y6lu50a/m-tv.jpg",МТВ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n75c0f6e4/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8151" tvg-name="НТА HD" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/bh76eplfsw5c3bh/nta.jpg",НТА HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n53346cf1/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-53763" tvg-name="НТК" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/bxs17hhq23v3vfe/ntk.jpg",НТК
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/1e5756f9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-342" tvg-name="НТН" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/ntn-ua.png",НТН
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n6752d854/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Орбіта ТВ" group-title="Украина",Орбіта ТВ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/6f20435b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-43" tvg-name="ОТВ" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/tglqxot84ooxpqa/otv-ch.png",ОТВ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/1f1b5961/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-642" tvg-name="Первый Городской" group-title="Украина" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/pp/perviy-gorodskoy-kanal-ru.png",Первый Городской
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n31a577b2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-1800" tvg-name="Перший Незалежний" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/1-nezalezhny.png",Перший Незалежний
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/nd4c38f5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-50485" tvg-name="Правда ТУТ" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/x6lpntkig37qzhb/pravda.png",Правда ТУТ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n3370bdf3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-50485" tvg-name="Правда ТУТ HD" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/x6lpntkig37qzhb/pravda.png",Правда ТУТ HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/fd5fe00/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-457" tvg-name="Прямий" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/pryamiy.png",Прямий
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/49af8e21/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-644" tvg-name="Репортер" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/uh4j8ad5h9x2ivj/reporter.gif",Репортер
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/6e146799/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Рудана HD" group-title="Украина" tvg-id="hlsproxy-536" tvg-logo="https://dl.dropboxusercontent.com/s/nzplz0du9oolk3l/rudana.png",Рудана HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n1e84f717/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Снятин ТВ HD" group-title="Украина",Снятин ТВ HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n5731f6b1/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-403" tvg-name="СТБ" group-title="Украина" tvg-logo="http://91.77.168.251:2020/logos/stb-ua.png",СТБ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n5865c274/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Сфера-ТВ" group-title="Украина" tvg-id="hlsproxy-53349" tvg-logo="https://dl.dropboxusercontent.com/s/2bxi1hv61vbcws9/sfera.png",Сфера-ТВ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n2197d52d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТIС (Одесса)" group-title="Украина" tvg-id="hlsproxy-53769" tvg-logo="https://dl.dropboxusercontent.com/s/tcfz0dtd0cfc4d3/tis.png",ТIС (Одесса)
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/518e8a0e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТВой ПЛЮС" group-title="Украина" tvg-id="hlsproxy-53830" tvg-logo="https://dl.dropboxusercontent.com/s/6gfsf5wvnkza7s9/tviyplus.png",ТВой ПЛЮС
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n7e17eadf/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Тернополь 1 HD" group-title="Украина" tvg-id="hlsproxy-55156" tvg-logo="https://dl.dropboxusercontent.com/s/y0wc31jg7t6xigk/ternop1.png",Тернополь 1 HD
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n2b48da78/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-645" tvg-name="Третий Цифровой" group-title="Украина" tvg-logo="https://dl.dropboxusercontent.com/s/ll8i82b6ct93vre/3cifr.gif",Третий Цифровой
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/n1d6609a7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТРК Юг" group-title="Украина" tvg-id="hlsproxy-100193" tvg-logo="https://dl.dropboxusercontent.com/s/rigld7n0g8xjpzh/youg.png",ТРК Юг
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/17be05cd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТРК ЯТБ" group-title="Украина",ТРК ЯТБ
+#EXTGRP:Украина
+http://91.77.168.251:2020/channel/19a2a18e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="1+1 Sport" group-title="Спорт" tvg-id="hlsproxy-1" tvg-logo="http://91.77.168.251:2020/logos/1-plus-1.png",1+1 Sport
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/4e4b58a7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="A21 Network" group-title="Спорт",A21 Network
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/6e2024ad/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-51341" tvg-name="Fighting Spirit" group-title="Спорт" tvg-logo="https://dl.dropboxusercontent.com/s/emv7iivqoysc8sy/fightingspirit.png",Fighting Spirit
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/4cb1795f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Red Bull" group-title="Спорт" tvg-id="hlsproxy-51971" tvg-logo="https://dl.dropboxusercontent.com/s/w0osuonbeeleazt/redbull.png",Red Bull
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/2ec14827/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://91.77.168.251:2020/logos/setanta-sports-1-hd.png",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/53483155/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-8338" tvg-name="Setanta Sports 2" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/setanta-sports-2.png",Setanta Sports 2
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n68514787/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Setanta Sports HD (Украина)" group-title="Спорт" tvg-id="hlsproxy-413" tvg-logo="http://91.77.168.251:2020/logos/setanta-sports-1-hd.png",Setanta Sports HD (Украина)
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n63507c8/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sky Sports 2" group-title="Спорт" tvg-id="hlsproxy-52539" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports.png",Sky Sports 2
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/5e9cc9e2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sky Sports 3" group-title="Спорт" tvg-id="hlsproxy-52540" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_mx_sports.png",Sky Sports 3
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/5e9cc9e3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sky Sports 5" group-title="Спорт" tvg-id="hlsproxy-53560" tvg-logo="https://dl.dropboxusercontent.com/s/8tawq4odgmkk6gw/sspsmain.png",Sky Sports 5
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/5e9cc9e5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Спорт" tvg-id="hlsproxy-1397" tvg-logo="https://dl.dropboxusercontent.com/s/l8uac20f6fc2uhl/sspsf1.png",Sky Sports F1
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/74fc74fb/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sky Sports News" group-title="Спорт" tvg-id="hlsproxy-52534" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/skysportsnews.png",Sky Sports News
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/27b79743/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="SPORT TV 1 PT" group-title="Спорт" tvg-id="hlsproxy-53584" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png",SPORT TV 1 PT
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/432b8af3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Viasat Sport" group-title="Спорт" tvg-id="hlsproxy-199" tvg-logo="http://91.77.168.251:2020/logos/viasat-sport.png",Viasat Sport
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/2698e741/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="KBS World" tvg-name="World Of Free Sports TV" group-title="Спорт",World Of Free Sports TV
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/34c4958a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-221" tvg-name="Беларусь 5 FHD" group-title="Спорт" tvg-logo="https://dl.dropboxusercontent.com/s/mt33vxkac22akoc/belarus5.png",Беларусь 5 FHD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/13334002/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-221" tvg-name="Беларусь 5 HD" group-title="Спорт" tvg-logo="https://dl.dropboxusercontent.com/s/mt33vxkac22akoc/belarus5.png",Беларусь 5 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/21a6d0bc/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-221" tvg-name="БЕЛАРУСЬ 5 INT" group-title="Спорт" tvg-logo="https://dl.dropboxusercontent.com/s/mt33vxkac22akoc/belarus5.png",БЕЛАРУСЬ 5 INT
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/55e6fef/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-274" tvg-name="КХЛ ТВ" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/khl-tv.png",КХЛ ТВ
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n1b97935c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Матч! HD" group-title="Спорт" tvg-id="hlsproxy-392" tvg-logo="http://91.77.168.251:2020/logos/match-tv-hd.png",Матч! HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n5bde8882/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-420" tvg-name="МАТЧ! АРЕНА" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-arena.png",МАТЧ! АРЕНА
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/3b312ebc/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-222" tvg-name="Матч! БОЕЦ" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-boec.png",Матч! БОЕЦ
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/236420da/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-94" tvg-name="МАТЧ! ИГРА" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-igra.png",МАТЧ! ИГРА
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/1ec4347/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-328" tvg-name="Матч! Премьер" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-premier.png",Матч! Премьер
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n5e7b6c2d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-335" tvg-name="Матч! Страна HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-strana.png",Матч! Страна HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/7b7f6d9c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-512" tvg-name="Матч! ФУТБОЛ  3" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-futbol-3.png",Матч! ФУТБОЛ  3
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/3a68b56c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-337" tvg-name="МАТЧ! Футбол 1 HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-futbol-1-hd.png",МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/7afa6a64/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-339" tvg-name="МАТЧ! Футбол 2" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-futbol-2.png",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n18782447/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-339" tvg-name="МАТЧ! Футбол 2 HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-futbol-2-hd.png",МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/7afadec3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-512" tvg-name="Матч! Футбол 3" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/match-futbol-3.png",Матч! Футбол 3
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/4ab3afda/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100273" tvg-name="Спортивный HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/sportivny.png",Спортивный HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/1b786789/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Телеканал ФУТБОЛ" group-title="Спорт" tvg-id="hlsproxy-1333" tvg-logo="http://91.77.168.251:2020/logos/telekanal-futbol.png",Телеканал ФУТБОЛ
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n3707ba27/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Фан Спорт" group-title="Спорт",Фан Спорт
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n5039b691/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-465" tvg-name="Футбол 1" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/futbol-1-ukr.png",Футбол 1
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/29ae7220/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-465" tvg-name="Футбол 1 HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/futbol-1-ukr-hd.png",Футбол 1 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n7c8ca504/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-467" tvg-name="Футбол 2" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/futbol-2-ukr.png",Футбол 2
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/29ae7221/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-467" tvg-name="Футбол 2 HD" group-title="Спорт" tvg-logo="http://91.77.168.251:2020/logos/futbol-2-ukr-hd.png",Футбол 2 HD
+#EXTGRP:Спорт
+http://91.77.168.251:2020/channel/n7c8c30a5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-3027" tvg-name=".black" tvg-logo="https://resizer.voka.tv/rosing-voka-production/9716e6a674548f7a01f6_250x250.jpg" group-title="Кино",.black
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/54d38cd9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-159" tvg-name=".red" tvg-logo="https://resizer.voka.tv/rosing-voka-production/369b0f065d5cf526d697_250x250.jpg" group-title="Кино",.red
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n5c14dc15/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-276" tvg-name="2x2" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/2x2.png",2x2
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/f158062/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-25" tvg-name="Amedia 1 HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/a1-tv.png",Amedia 1 HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/nc1c2a40/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-26" tvg-name="Amedia 2 HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/a2-tv.png",Amedia 2 HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/nc1bb5e1/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BACKUS TV HD" group-title="Кино" tvg-id="hlsproxy-672" tvg-logo="https://dl.dropboxusercontent.com/s/6cmv3betcrzs729/backus.png",BACKUS TV HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/44889824/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-672" tvg-name="Backustv HD" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/6cmv3betcrzs729/backus.png",Backustv HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/64076d10/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BACKUSTV Страшное HD" group-title="Кино" tvg-id="hlsproxy-672" tvg-logo="https://dl.dropboxusercontent.com/s/6cmv3betcrzs729/backus.png",BACKUSTV Страшное HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/1cd59f6b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55465" tvg-name="BCU Action HD" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/zdg3a6omrt16f6s/bcu-act.png",BCU Action HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n1d7616c9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55464" tvg-name="BCU Catastrophe" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/zgfpnwcduh1qt6u/bcu-cata.png",BCU Catastrophe
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/4c4d8875/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55457" tvg-name="BCU Fantastic" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/hw6lwgpsydpjol1/bcu-fant.png",BCU Fantastic
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n33441df4/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-54990" tvg-name="BCU FilMystic" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/4s6r8bzgnittv9o/filmax.png",BCU FilMystic
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/60be0661/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-3027" tvg-name="Black" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/black.png",Black
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n708b1568/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100305" tvg-name="Cineman Top" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman-top.png",Cineman Top
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/38487c6f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100313" tvg-name="CineMan VHS" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman-vhs.png",CineMan VHS
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n647ee905/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100307" tvg-name="CineMan Катастрофы" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman.png",CineMan Катастрофы
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n77fb08b0/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100314" tvg-name="CineMan Комедия" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman-comedy.png",CineMan Комедия
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/65341168/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100307" tvg-name="CineMan Скорая помощь" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman.png",CineMan Скорая помощь
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n48f4a31c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-100315" tvg-name="CineMan Ужасы" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/cineman-uzhasy.png",CineMan Ужасы
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n901105f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55103" tvg-name="FAN HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/fantastic-animation.png",FAN HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n6121171c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-1478" tvg-name="Film Box" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/filmbox.png",Film Box
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n4cce59fa/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-9085" tvg-name="Film TV HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_and_arts_br.png",Film TV HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/1ed472cc/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-81" tvg-name="Fox HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/fox-hd.png",Fox HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/662f8674/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="FOX Life HD" group-title="Кино" tvg-id="hlsproxy-83" tvg-logo="http://91.77.168.251:2020/logos/foxlife-hd.png",FOX Life HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n6aad9df8/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-53022" tvg-name="Kino 24" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kino24.png",Kino 24
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n5f1830d7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-144" tvg-name="Paramount Comedy" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/paramount-comedy.png",Paramount Comedy
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n5a9cd18/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-5107" tvg-name="Sci-Fi" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/sci-fi.png",Sci-Fi
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/7baecb9e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="Serial HD" tvg-name="Serial HD" group-title="Кино",Serial HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n760a594b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-53457" tvg-name="Series TV" group-title="Кино" tvg-logo="https://dl.dropboxusercontent.com/s/3q90tdqvqgc5jam/seri.png",Series TV
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/656fb5fd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-472" tvg-name="SHOT TV" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/shot-tv.png",SHOT TV
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n594e0215/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Sony" group-title="Кино" tvg-id="hlsproxy-159" tvg-logo="http://91.77.168.251:2020/logos/sony-channel.png",Sony
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3999c92/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="Thriller HD" tvg-name="Thriller HD" group-title="Кино",Thriller HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n6154b16f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-2494" tvg-name="TRASH (тест)" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/trash-tv.png",TRASH (тест)
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n55d507c3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-172" tvg-name="TV 1000 Action HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/tv1000-action.png",TV 1000 Action HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/2f020f1c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-171" tvg-name="TV 1000 HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/tv1000-hd.png",TV 1000 HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n5d60ca5a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-22" tvg-name="TV 1000 Русское кино HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/tv1000-russkoe.png",TV 1000 Русское кино HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n1511fe1f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-54661" tvg-name="Ultra Cinema 4K" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/ulrta-hd-cinema.png",Ultra Cinema 4K
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/28395a76/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-6143" tvg-name="Victory HD" group-title="Кино" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/vv/victory_channel.png",Victory HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/2ac06f5d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-173" tvg-name="ViP Comedy" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/vip-comedy.png",ViP Comedy
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n58ca92bd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-174" tvg-name="ViP Megahit" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/vip-megahit.png",ViP Megahit
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/3f0fc477/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-175" tvg-name="ViP Premiere" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/vip-premiere.png",ViP Premiere
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n7882de5d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55135" tvg-name="ViP Serial" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/vip-serial.png",ViP Serial
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3e079f62/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-204" tvg-name="Zee TV" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/zee-tv.png",Zee TV
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3a4cdc2f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-244" tvg-name="Дом Кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/dom-kino.png",Дом Кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/5dbd5fea/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-265" tvg-name="Индийское кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/indiyskoe-kino.png",Индийское кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n7ae8795e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-279" tvg-name="Кино ТВ" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kino-tv.png",Кино ТВ
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n25da0a5b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="Кинозал! СССР" tvg-name="Кинозал Доку" group-title="Кино",Кинозал Доку
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3304b67c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="Кинозал! СССР" tvg-name="Кинозал Свежаки" group-title="Кино",Кинозал Свежаки
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n76752c15/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="Кинозал! СССР" tvg-name="Кинозал Уже видел" group-title="Кино",Кинозал Уже видел
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/2161bae5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-290" tvg-name="Кинокомедия" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kinokomedia.png",Кинокомедия
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/ne66edbd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Кинолюкс" group-title="Кино",Кинолюкс
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n72322959/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-323" tvg-name="Киномикс" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kinomiks.png",Киномикс
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/6c77510e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Киносвидание" group-title="Кино" tvg-id="hlsproxy-324" tvg-logo="http://91.77.168.251:2020/logos/kinosvidanie.png",Киносвидание
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n68fc8e1e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Киносвидание HD" group-title="Кино" tvg-id="hlsproxy-324" tvg-logo="http://91.77.168.251:2020/logos/kinosvidanie.png",Киносвидание HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n7a827667/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-92" tvg-name="Киносемья" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kinosemya.png",Киносемья
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/22b7f640/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-309" tvg-name="Киносерия" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/kinoseria.png",Киносерия
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/22b802d8/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Кинохит" group-title="Кино" tvg-id="hlsproxy-327" tvg-logo="http://91.77.168.251:2020/logos/kinohit.png",Кинохит
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n25ca789c/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-308" tvg-name="Мир сериала" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/mir-seriala.png",Мир сериала
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n75bd4bcf/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-242" tvg-name="Москва Доверие" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/moskva-doverie.png",Москва Доверие
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/18c4eac3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-268" tvg-name="Мужское кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/muzhskoe-kino.png",Мужское кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n7fe9bd54/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-385" tvg-name="Наше любимое кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/nashe-lubimoe.png",Наше любимое кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/5da565ba/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-329" tvg-name="Наше новое кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/nashe-novoe-kino.png",Наше новое кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n6b0afa35/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Суббота! HD" group-title="Кино" tvg-id="hlsproxy-431" tvg-logo="http://91.77.168.251:2020/logos/subbota-hd.png",Суббота! HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/31fb7c1b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Ужастик" group-title="Кино",Ужастик
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n26c0fee/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-464" tvg-name="Феникс+ Кино" group-title="Кино" tvg-logo="http://91.77.168.251:2020/logos/feniks-plus-kino.png",Феникс+ Кино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3715e892/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-55519" tvg-name="Cartoon HD" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/cartoon-network-hd.png",Cartoon HD
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/n429caef/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="ch460" tvg-name="Cartoons 90" group-title="Детские",Cartoons 90
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/7f15908f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="ch460" tvg-name="Cartoons big" group-title="Детские",Cartoons big
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/639d2288/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="ch460" tvg-name="Cartoons short" group-title="Детские",Cartoons short
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/ne3217fc/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-66" tvg-name="Канал Disney" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/disney-kanal.png",Канал Disney
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/1b9b5189/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-277" tvg-name="Карусель" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/karusel.png",Карусель
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/6bbf7c5a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-277" tvg-name="Карусель HD" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/karusel.png",Карусель HD
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/n5738ae45/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-315" tvg-name="Мультиландия" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/multilandia.png",Мультиландия
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/n186ad608/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-186" tvg-name="О!" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/o-ru.png",О!
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/ef07fcb/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-388" tvg-name="Радость моя" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/radost-moya.png",Радость моя
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/n3209355e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-54501" tvg-name="СТС Kids HD" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/sts-kids-hd.png",СТС Kids HD
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/n2608b898/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-238" tvg-name="Уникум" group-title="Детские" tvg-logo="http://91.77.168.251:2020/logos/unikum.png",Уникум
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/6431ca5d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="#ё (Самара) HD" group-title="Музыка" tvg-id="hlsproxy-8070" tvg-logo="https://dl.dropboxusercontent.com/s/z7xpxy8g03tqhxp/yo.png",#ё (Самара) HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n5abedb0a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="1HD Music" group-title="Музыка" tvg-id="hlsproxy-7" tvg-logo="http://91.77.168.251:2020/logos/1hd-ru.png",1HD Music
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/4c5623df/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-7" tvg-name="1HD Music Television" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/1hd-ru.png",1HD Music Television
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n7bde08ed/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-578" tvg-name="Amedia Hit HD" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/amedia-hit-hd.png",Amedia Hit HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/240204ff/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-44" tvg-name="Bridge TV" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/bridge-tv.png",Bridge TV
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/1c4daad6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-180" tvg-name="Bridge TV Classic" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/bridge-tv-classic.png",Bridge TV Classic
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/7477e128/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-57" tvg-name="Bridge TV Hits" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/bridge-tv-hits.png",Bridge TV Hits
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/12beee6a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-154" tvg-name="Bridge TV русский хит" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/bridge-tv-russkiy-hit.png",Bridge TV русский хит
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n148bb1e3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-3073" tvg-name="Clubbing TV" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/clubbing-tv.png",Clubbing TV
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/79ac567b/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-4046" tvg-name="DeeJay TV" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dee_jay_tv_it.png",DeeJay TV
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n3384e06e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Kronehit HD" group-title="Музыка" tvg-id="hlsproxy-10239" tvg-logo="http://91.77.168.251:2020/logos/kronehit.png",Kronehit HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/1f50e1ad/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="MTV Biggest Pop HD" group-title="Музыка",MTV Biggest Pop HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n5f2ec940/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="MTV Block Party HD" group-title="Музыка",MTV Block Party HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/af761bd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-119" tvg-name="Music Box" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/russian-musicbox.png",Music Box
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n33eeb673/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-295" tvg-name="Ля-минор" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/la-minor.png",Ля-минор
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n7981c7d3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-296" tvg-name="М1 HD" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/m1-ua-hd.png",М1 HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n16fa5c65/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-297" tvg-name="М2 HD" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/m2-ua-hd.png",М2 HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n16f9e806/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-301" tvg-name="МУЗ ТВ" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/muz.png",МУЗ ТВ
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n2e8a567d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-301" tvg-name="МУЗ ТВ HD" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/muz.png",МУЗ ТВ HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/b79c4b9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-54544" tvg-name="НАШЕ ТВ" group-title="Музыка" tvg-logo="https://dl.dropboxusercontent.com/s/4nnn87pioflmebh/nashe-v.jpg",НАШЕ ТВ
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/18fbdcab/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Первый Музыкальный HD" group-title="Музыка" tvg-id="hlsproxy-8136" tvg-logo="http://91.77.168.251:2020/logos/oneby.png",Первый Музыкальный HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n5d65ec3a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-6012" tvg-name="Страна FM HD" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/strana-fm.png",Страна FM HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n1c652e7f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-30002" tvg-name="ТНТ Music" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/tnt-music.png",ТНТ Music
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/240e8c69/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТНТ Music HD" group-title="Музыка" tvg-id="hlsproxy-30002" tvg-logo="http://91.77.168.251:2020/logos/tnt-music.png",ТНТ Music HD
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/3491d8da/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-id="hlsproxy-471" tvg-name="Шансон ТВ" group-title="Музыка" tvg-logo="http://91.77.168.251:2020/logos/shanson-tv.png",Шансон ТВ
+#EXTGRP:Музыка
+http://91.77.168.251:2020/channel/n63b34f56/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BCU Cinema+" group-title="Кино" tvg-id="hlsproxy-55528" tvg-logo="https://dl.dropboxusercontent.com/s/4zv6qidover3inm/boxcinema.png",BCU Cinema+
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/461dd5ab/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BCU Criminal" group-title="Кино",BCU Criminal
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/519bdc32/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BCU RUSerial" group-title="Кино",BCU RUSerial
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/43c171c6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="BCU Мультсериал" group-title="Кино" tvg-id="hlsproxy-55463" tvg-logo="https://dl.dropboxusercontent.com/s/m54a9kl10w4sdmr/bcu-multser.png",BCU Мультсериал
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n10d7258e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan Лесник" group-title="Кино" tvg-id="hlsproxy-100307" tvg-logo="http://91.77.168.251:2020/logos/cineman.png",CineMan Лесник
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n24ce2ac2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan Ментовские войны" group-title="Кино" tvg-id="hlsproxy-100307" tvg-logo="http://91.77.168.251:2020/logos/cineman.png",CineMan Ментовские войны
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/47a8b1e9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan ПёС" group-title="Кино" tvg-id="hlsproxy-100307" tvg-logo="http://91.77.168.251:2020/logos/cineman.png",CineMan ПёС
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n64703297/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan РуКино" group-title="Кино" tvg-id="hlsproxy-100310" tvg-logo="http://91.77.168.251:2020/logos/cineman-rukino.png",CineMan РуКино
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n1b927338/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan Сваты" group-title="Кино" tvg-id="hlsproxy-100311" tvg-logo="http://91.77.168.251:2020/logos/cineman-svaty.png",CineMan Сваты
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n91f10be/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="CineMan Симпсоны" group-title="Кино" tvg-id="hlsproxy-55435" tvg-logo="https://dl.dropboxusercontent.com/s/qqtufq5vwz3hrhs/serial.png",CineMan Симпсоны
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n245c2155/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Drive HD" group-title="Кино" tvg-id="hlsproxy-248" tvg-logo="http://91.77.168.251:2020/logos/draiv.png",Drive HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n4dedddcb/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Fashion HD" group-title="Кино" tvg-id="hlsproxy-79" tvg-logo="http://91.77.168.251:2020/logos/fashion-tv-hd.png",Fashion HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n44742579/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="KLI Cinema HD" group-title="Кино",KLI Cinema HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n1cdf5f90/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="KLI HIT 90" group-title="Кино",KLI HIT 90
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/3138b0ff/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="KLI Music HD" group-title="Кино",KLI Music HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/1dc65052/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="KLI Комедия HD" group-title="Кино",KLI Комедия HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/43cd8fa9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Paradox HD" group-title="Кино",Paradox HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/63b9cab2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="POP HD" group-title="Кино" tvg-id="hlsproxy-1311" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/pp/pop_uk.png",POP HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n5d769f32/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Relax HD" group-title="Кино" tvg-id="hlsproxy-8110" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/rr/relax_tv_cz.png",Relax HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n4b4f2c91/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Romantic HD" group-title="Кино",Romantic HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/n3337ffb8/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Доку" group-title="Кино",Доку
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/30069bb6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="РуКино HD" group-title="Кино",РуКино HD
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/222a6d57/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Свежаки" group-title="Кино",Свежаки
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/6bfcfc79/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Уже видел" group-title="Кино",Уже видел
+#EXTGRP:Кино
+http://91.77.168.251:2020/channel/2febf7f3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Filmon Erotic Sensations" group-title="18+" tvg-id="hlsproxy-20334" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_on_tv_us.png",Filmon Erotic Sensations
+#EXTGRP:18+
+http://91.77.168.251:2020/channel/n1939b0ac/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Filmon Fetish Factory" group-title="18+" tvg-id="hlsproxy-20334" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_on_tv_us.png",Filmon Fetish Factory
+#EXTGRP:18+
+http://91.77.168.251:2020/channel/n57051b98/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Filmon Man2Man" group-title="18+" tvg-id="hlsproxy-20334" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_on_tv_us.png",Filmon Man2Man
+#EXTGRP:18+
+http://91.77.168.251:2020/channel/n54782a13/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Filmon Penthouse" group-title="18+" tvg-id="hlsproxy-20334" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_on_tv_us.png",Filmon Penthouse
+#EXTGRP:18+
+http://91.77.168.251:2020/channel/n48a11770/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Baby TV" group-title="Детские" tvg-id="hlsproxy-40" tvg-logo="http://91.77.168.251:2020/logos/baby-tv.png",Baby TV
+#EXTGRP:Детские
+http://91.77.168.251:2020/channel/73365e65/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Вечерняя Москва HD" group-title="Региональные" tvg-id="hlsproxy-2462" tvg-logo="https://dl.dropboxusercontent.com/s/qt8q1a2sbts8efg/vechmosk.png",Вечерняя Москва HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n4e6a9516/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Москва 24" group-title="Региональные" tvg-id="hlsproxy-310" tvg-logo="http://91.77.168.251:2020/logos/moskva24.png",Москва 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/4e95bd4f/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Башкортостан 24" group-title="Региональные" tvg-id="hlsproxy-53477" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bashkortostan-24-ru.png",Башкортостан 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/405ce12a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="12 канал HD" group-title="Региональные" tvg-id="hlsproxy-6" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/num/12-kanal-ru.png",12 канал HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/39e9bcd0/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Липецкое время" group-title="Региональные" tvg-id="hlsproxy-598" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lipetskoye_vremya_ru.png",Липецкое время
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n45f1380/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Тюменское время" group-title="Региональные" tvg-id="hlsproxy-610" tvg-logo="https://dl.dropboxusercontent.com/s/8v3n0e3k5j3ecq3/tumenvr.png",Тюменское время
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n6ac1180a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Енисей HD" group-title="Региональные" tvg-id="hlsproxy-254" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ee/enisey_tv_ru.png",Енисей HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/ndb2e3b0/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ОТВ (Одинцово)" group-title="Региональные" tvg-id="hlsproxy-8312" tvg-logo="https://dl.dropboxusercontent.com/s/z9nd4oxtsgvetz0/odinz.png",ОТВ (Одинцово)
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n51fb2c3/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Миллет" group-title="Региональные" tvg-id="hlsproxy-6070" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/mm/millet_ua.png",Миллет
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n3af00bd7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Мордовия 24" group-title="Региональные" tvg-id="hlsproxy-55483" tvg-logo="https://dl.dropboxusercontent.com/s/dzj9k97deqwyssz/mord24.png",Мордовия 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n2cf9a9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Щелковское ТВ" group-title="Региональные" tvg-id="hlsproxy-638" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/schelkovo_tv41_ru.png",Щелковское ТВ
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n76ec3f69/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Ветта 24 Пермь" group-title="Региональные" tvg-id="hlsproxy-10152" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/vv/vetta_ru_24.png",Ветта 24 Пермь
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n6b26a789/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Арис 24" group-title="Региональные" tvg-id="hlsproxy-54731" tvg-logo="https://dl.dropboxusercontent.com/s/pdvlpiqv079gapc/aris.png",Арис 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/567f9be1/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Сочи 24 HD" group-title="Региональные" tvg-id="hlsproxy-8414" tvg-logo="https://dl.dropboxusercontent.com/s/k71b1zwmwzjz6gy/Maks24.jpg",Сочи 24 HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/366e7e70/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Ники ТВ" group-title="Региональные",Ники ТВ
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n75d9131/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="К16" group-title="Региональные" tvg-id="hlsproxy-54764" tvg-logo="https://dl.dropboxusercontent.com/s/icbbtrepljskpda/k16.png",К16
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n484e96e9/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Сургут 24" group-title="Региональные" tvg-id="hlsproxy-53483" tvg-logo="https://dl.dropboxusercontent.com/s/nabyvqqaiks3dt7/surg24.jpg",Сургут 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/7ea2dfe2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="ТВК 24 (Красноярск)" group-title="Региональные" tvg-id="hlsproxy-53766" tvg-logo="https://dl.dropboxusercontent.com/s/d14fggpz89zz6xd/tvk24.png",ТВК 24 (Красноярск)
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n3c0dc3c6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Кубань 24" group-title="Региональные" tvg-id="hlsproxy-333" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kuban_24_ru.png",Кубань 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/1630e623/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Белгород 24 HD" group-title="Региональные" tvg-id="hlsproxy-504" tvg-logo="https://dl.dropboxusercontent.com/s/bvymnwnkxgu7a3d/belgor24.png",Белгород 24 HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n6490eaa5/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Эхо ТВ 24" group-title="Региональные" tvg-id="hlsproxy-8135" tvg-logo="https://dl.dropboxusercontent.com/s/crdo2vw58l0vyll/echo24.jpg",Эхо ТВ 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/38297f2/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Евразия (Орск)" group-title="Региональные" tvg-id="hlsproxy-54000" tvg-logo="https://dl.dropboxusercontent.com/s/lzf2qnjyuojfvrj/trkevrasia.jpg",Евразия (Орск)
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/712c087d/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Дагестан" group-title="Региональные" tvg-id="hlsproxy-381" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rgvk_dagestan_ru.png",Дагестан
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/8312c46/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Ингушетия" group-title="Региональные" tvg-id="hlsproxy-12019" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ii/ingushetia_tv_ru.png",Ингушетия
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/6cb98e03/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="11 канал (Пенза)" group-title="Региональные" tvg-id="hlsproxy-7165" tvg-logo="https://dl.dropboxusercontent.com/s/cb622odnltpp1zu/nashdom.png",11 канал (Пенза)
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/22e67892/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Чайковский ТВ" group-title="Региональные" tvg-id="hlsproxy-100176" tvg-logo="https://dl.dropboxusercontent.com/s/22t1dnis18dn164/chaykovsk.png",Чайковский ТВ
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/a09b780/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Первый Ярославский HD" group-title="Региональные" tvg-id="hlsproxy-1026" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/pp/perviy_jaroslavskiy_ru.png",Первый Ярославский HD
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n19ed2e47/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="СТРК Сочи" group-title="Региональные" tvg-id="hlsproxy-51037" tvg-logo="https://dl.dropboxusercontent.com/s/kvisj48j4fp060x/strk.png",СТРК Сочи
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/2fcea5e6/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Саратов 24" group-title="Региональные" tvg-id="hlsproxy-8067" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/ss/saratov-24-ru.png",Саратов 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/56e1277a/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Аист" group-title="Региональные" tvg-id="hlsproxy-522" tvg-logo="https://dl.dropboxusercontent.com/s/3lhx7em5ue9ekp0/aist.png",Аист
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n3ba2c5c7/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Астрахань 24" group-title="Региональные" tvg-id="hlsproxy-545" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astrakhan_24_ru.png",Астрахань 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/291f7aaf/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="10 канал (Новокузнецк)" group-title="Региональные" tvg-id="hlsproxy-50248" tvg-logo="https://dl.dropboxusercontent.com/s/rkcz27k7j72ysw8/10kanal.jpg",10 канал (Новокузнецк)
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n4e24df0e/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Кузбасс 1" group-title="Региональные" tvg-id="hlsproxy-669" tvg-logo="http://91.77.168.251:2020/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kuzbass-1-ru.png",Кузбасс 1
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n3ddd8ddf/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Эфир ТВ" group-title="Региональные" tvg-id="hlsproxy-51176" tvg-logo="https://dl.dropboxusercontent.com/s/p26r80lktm22tdu/efir24relax.png",Эфир ТВ
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/3e4cf0cd/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Татарстан 24" group-title="Региональные" tvg-id="hlsproxy-1009" tvg-logo="https://dl.dropboxusercontent.com/s/d2btu4wydu4tae4/tatarstan%2024.jpg",Татарстан 24
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n7e3b0bec/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Камчатка 1" group-title="Региональные" tvg-id="hlsproxy-100100" tvg-logo="https://dl.dropboxusercontent.com/s/nam1umz9x4ty232/kamchatka.png",Камчатка 1
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/n13d522bb/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
+#EXTINF:-1 tvg-name="Югран" group-title="Региональные",Югран
+#EXTGRP:Региональные
+http://91.77.168.251:2020/channel/668e3cca/index.m3u8?q=804f8ea75d5955b80fa40ecc311b4640
