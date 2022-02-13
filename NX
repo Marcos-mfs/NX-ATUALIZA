@@ -30,24 +30,26 @@ https://canal1.proxy.tokplay.com.br/streams/TV_ITAPOAN/format720p_TV_ITAPOAN.m3u
 #EXTINF:0, REDE TV
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/videos/REDE_TV/format720p_REDE_TV.m3u8
-#EXTINF:0, BAND RBA
+#EXTINF:0, BAND
 #EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w282885039.m3u8
+https://enc1.proxy.tokplay.com.br/BAND-MAIS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, CULTURA
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/videos/CULTURA/format720p_CULTURA.m3u8
 #EXTINF:0, GAZETA SP
 #EXTVLCOPT:network-caching=1000
 https://canal1.proxy.tokplay.com.br/videos/GAZETA/format720p_GAZETA.m3u8
-#EXTINF:0, REDE TV 2
+#EXTINF:0, RECORD NEWS
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/REDE_TV/format720p_REDE_TV.m3u8
+https://canal1.proxy.tokplay.com.br/videos/RECORD_NEWS/format720p_RECORD_NEWS.m3u8
 #EXTINF:0, BAND HD
 #EXTVLCOPT:network-caching=1000
 https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1069726845.m3u8
 #EXTINF:0, FUTURA
 #EXTVLCOPT:network-caching=1000
-https://canal1.proxy.tokplay.com.br/streams/FUTURA/format720p_FUTURA.m3u8
+https://canal1.proxy.tokplay.com.br/videos/FUTURA/format720p_FUTURA.m3u8
+
+
 
 
 #EXTINF:-1,CANCA NOVA HD
@@ -76,6 +78,7 @@ http://189.14.209.52:8000/play/a00c/index.m3u8
 http://189.14.209.52:8000/play/a00l/index.m3u8
 #EXTINF:-1,TV VITORIA HD
 http://189.14.209.52:8000/play/a00g/index.m3u8
+
 #EXTINF:0, REDBULL TV
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
