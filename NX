@@ -918,3 +918,282 @@ https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/WRNN-TV_RNN_logo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="",WRNN-DT1 (ShopLC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://v-ny.theus6tv.tk/hls/48.1/playlist.m3u8
+
+#EXTINF:-1,HBO 2
+http://85.14.32.15:8800/udp/239.10.10.5:5000
+#EXTINF:-1,Bloomberg Europe TV
+http://85.14.32.15:8800/udp/239.10.10.20:5000
+#EXTINF:-1,Cinemax
+http://85.14.32.15:8800/udp/239.10.10.6:5000
+#EXTINF:-1,Wild TV
+http://85.14.32.15:8800/udp/239.10.10.8:5000
+#EXTINF:-1,Anixe
+http://85.14.32.15:8800/udp/239.10.10.25:5000
+#EXTINF:-1,RTVi
+http://85.14.32.15:8800/udp/239.10.10.14:5000
+#EXTINF:-1,C
+I Network&http://85.14.32.15:8800/udp/239.10.10.10:5000
+#EXTINF:-1,Armenia 1 TV
+http://85.14.32.15:8800/udp/239.10.10.26:5000
+#EXTINF:-1,Наше Кино
+http://85.14.32.15:8800/udp/239.10.10.12:5000
+#EXTINF:-1,CNBC Europe
+http://85.14.32.15:8800/udp/239.10.10.19:5000
+#EXTINF:-1,amc
+http://85.14.32.15:8800/udp/239.10.10.11:5000
+#EXTINF:-1,Hobby lov
+http://85.14.32.15:8800/udp/239.10.10.34:5000
+#EXTINF:-1,3SAT HD
+http://85.14.32.15:8800/udp/239.10.10.23:5000
+#EXTINF:-1,Детский Мир
+http://85.14.32.15:8800/udp/239.10.10.13:5000
+#EXTINF:-1,Hobby TV
+http://85.14.32.15:8800/udp/239.10.10.35:5000
+#EXTINF:-1,Discovery Science HD
+http://85.14.32.15:8800/udp/239.10.10.1:5000
+#EXTINF:-1,Музыка
+http://85.14.32.15:8800/udp/239.10.10.38:5000
+#EXTINF:-1,Food Network HD
+http://85.14.32.15:8800/udp/239.10.10.4:5000
+#EXTINF:-1,Fashion TV HD
+http://85.14.32.15:8800/udp/239.10.10.15:5000
+#EXTINF:-1,Nick Jr
+http://85.14.32.15:8800/udp/239.10.10.40:5000
+#EXTINF:-1,KiKA
+http://85.14.32.15:8800/udp/239.10.10.37:5000
+#EXTINF:-1,Russia Today Documentary
+http://85.14.32.15:8800/udp/239.10.10.46:5000
+#EXTINF:-1,Investigation Discovery
+http://85.14.32.15:8800/udp/239.10.10.29:5000
+#EXTINF:-1,CBS Reality
+http://85.14.32.15:8800/udp/239.10.10.41:5000
+#EXTINF:-1,24 TEXHO
+http://85.14.32.15:8800/udp/239.10.10.22:5000
+#EXTINF:-1,MTV Live HD
+http://85.14.32.15:8800/udp/239.10.10.16:5000
+#EXTINF:-1,SAT.1 Gold
+http://85.14.32.15:8800/udp/239.10.10.47:5000
+#EXTINF:-1,Karussel
+http://85.14.32.15:8800/udp/239.10.10.50:5000
+#EXTINF:-1,Nova Sport HD
+http://85.14.32.15:8800/udp/239.10.10.2:5000
+#EXTINF:-1,Cinemax 2 HD
+http://85.14.32.15:8800/udp/239.10.10.7:5000
+#EXTINF:-1,Hobby TV HD
+http://85.14.32.15:8800/udp/239.10.10.36:5000
+#EXTINF:-1,Animal Planet HD
+http://85.14.32.15:8800/udp/239.10.10.24:5000
+#EXTINF:-1,FOX HD
+http://85.14.32.15:8800/udp/239.10.10.18:5000
+#EXTINF:-1,BG-DNES HD
+http://85.14.32.15:8800/udp/239.10.10.27:5000
+#EXTINF:-1,BNT 3 HD
+http://85.14.32.15:8800/udp/239.10.10.3:5000
+#EXTINF:-1,Magic TV
+http://85.14.32.15:8800/udp/239.10.10.57:5000
+#EXTINF:-1,Nova TV HD
+http://85.14.32.15:8800/udp/239.10.10.42:5000
+#EXTINF:-1,Rai 3
+http://85.14.32.15:8800/udp/239.10.10.49:5000
+#EXTINF:-1,Nickelodeon
+http://85.14.32.15:8800/udp/239.10.10.58:5000
+#EXTINF:-1,Supertennis
+http://85.14.32.15:8800/udp/239.10.10.60:5000
+#EXTINF:-1,AutoMotorSport HD
+http://85.14.32.15:8800/udp/239.10.10.43:5000
+#EXTINF:-1,Russia Today HD
+http://85.14.32.15:8800/udp/239.10.10.48:5000
+#EXTINF:-1,Evrokom HD
+http://85.14.32.15:8800/udp/239.10.10.31:5000
+#EXTINF:-1,Duck TV
+http://85.14.32.15:8800/udp/239.10.10.71:5000
+#EXTINF:-1,Sky News
+http://85.14.32.15:8800/udp/239.10.10.62:5000
+#EXTINF:-1,BangU
+http://85.14.32.15:8800/udp/239.10.10.68:5000
+#EXTINF:-1,Pure Babes
+http://85.14.32.15:8800/udp/239.10.10.70:5000
+#EXTINF:-1,Nova News HD
+http://85.14.32.15:8800/udp/239.10.10.65:5000
+#EXTINF:-1,ZDF HD
+http://85.14.32.15:8800/udp/239.10.10.59:5000
+#EXTINF:-1,Das Erste HD
+http://85.14.32.15:8800/udp/239.10.10.64:5000
+#EXTINF:-1,Mezzo Live HD
+http://85.14.32.15:8800/udp/239.10.10.76:5000
+#EXTINF:-1,Mezzo
+http://85.14.32.15:8800/udp/239.10.10.75:5000
+#EXTINF:-1,Telecafe
+http://85.14.32.15:8800/udp/239.10.10.79:5000
+#EXTINF:-1,KCN Music 2
+http://85.14.32.15:8800/udp/239.10.10.83:5000
+#EXTINF:-1,CCTV-4
+http://85.14.32.15:8800/udp/239.10.10.84:5000
+#EXTINF:-1,Babes TV HD
+http://85.14.32.15:8800/udp/239.10.10.69:5000
+#EXTINF:-1,Reality Kings
+http://85.14.32.15:8800/udp/239.10.10.81:5000
+#EXTINF:-1,Время
+http://85.14.32.15:8800/udp/239.10.10.85:5000
+#EXTINF:-1,arte HD
+http://85.14.32.15:8800/udp/239.10.10.63:5000
+#EXTINF:-1,France 2 HD
+http://85.14.32.15:8800/udp/239.10.10.77:5000
+#EXTINF:-1,DaVinci Learning
+http://85.14.32.15:8800/udp/239.10.10.87:5000
+#EXTINF:-1,Rai News 24
+http://85.14.32.15:8800/udp/239.10.10.90:5000
+#EXTINF:-1,Hustler TV
+http://85.14.32.15:8800/udp/239.10.10.88:5000
+#EXTINF:-1,Trace Sport Stars
+http://85.14.32.15:8800/udp/239.10.10.97:5000
+#EXTINF:-1,Sunrise Music
+http://85.14.32.15:8800/udp/239.10.10.93:5000
+#EXTINF:-1,Folklor TV
+http://85.14.32.15:8800/udp/239.10.10.94:5000
+#EXTINF:-1,FilmBox
+http://85.14.32.15:8800/udp/239.10.10.98:5000
+#EXTINF:-1,TVE
+http://85.14.32.15:8800/udp/239.10.10.103:5000
+#EXTINF:-1,VOX
+http://85.14.32.15:8800/udp/239.10.10.106:5000
+#EXTINF:-1,Einsfestival
+http://85.14.32.15:8800/udp/239.10.10.109:5000
+#EXTINF:-1,tagesschau24
+http://85.14.32.15:8800/udp/239.10.10.111:5000
+#EXTINF:-1,zdf_neo
+http://85.14.32.15:8800/udp/239.10.10.113:5000
+#EXTINF:-1,ZDFinfo
+http://85.14.32.15:8800/udp/239.10.10.114:5000
+#EXTINF:-1,Shanson TV
+http://85.14.32.15:8800/udp/239.10.10.115:5000
+#EXTINF:-1,Eurosport 2 HD
+http://85.14.32.15:8800/udp/239.10.10.100:5000
+#EXTINF:-1,RTLNITRO
+http://85.14.32.15:8800/udp/239.10.10.107:5000
+#EXTINF:-1,STS International
+http://85.14.32.15:8800/udp/239.10.10.116:5000
+#EXTINF:-1,Diema Sport HD
+http://85.14.32.15:8800/udp/239.10.10.96:5000
+#EXTINF:-1,KiKA
+http://85.14.32.15:8800/udp/239.10.10.119:5000
+#EXTINF:-1,3sat
+http://85.14.32.15:8800/udp/239.10.10.118:5000
+#EXTINF:-1,2M Monde
+http://85.14.32.15:8800/udp/239.10.10.117:5000
+#EXTINF:-1,NHK World TV
+http://85.14.32.15:8800/udp/239.10.10.126:5000
+#EXTINF:-1,TVR International
+http://85.14.32.15:8800/udp/239.10.10.129:5000
+#EXTINF:-1,zdf_neo
+http://85.14.32.15:8800/udp/239.10.10.121:5000
+#EXTINF:-1,TVRUS
+http://85.14.32.15:8800/udp/239.10.10.130:5000
+#EXTINF:-1,Fox Life
+http://85.14.32.15:8800/udp/239.10.10.134:5000
+#EXTINF:-1,Bulgaria 24
+http://85.14.32.15:8800/udp/239.10.10.128:5000
+#EXTINF:-1,BBC World News Europe HD
+http://85.14.32.15:8800/udp/239.10.10.143:5000
+#EXTINF:-1,Trace Sport Stars
+http://85.14.32.15:8800/udp/239.10.10.137:5000
+#EXTINF:-1,Diema Sport 2
+http://85.14.32.15:8800/udp/239.10.10.142:5000
+#EXTINF:-1,TV1 HD
+http://85.14.32.15:8800/udp/239.10.10.124:5000
+#EXTINF:-1,Diema Sport
+http://85.14.32.15:8800/udp/239.10.10.135:5000
+#EXTINF:-1,24 Kitchen HD
+http://85.14.32.15:8800/udp/239.10.10.133:5000
+#EXTINF:-1,ID Xtra HD
+http://85.14.32.15:8800/udp/239.10.10.136:5000
+#EXTINF:-1,Bloomberg TV Bulgaria
+http://85.14.32.15:8800/udp/239.10.10.150:5000
+#EXTINF:-1,Diema Sport 2 HD
+http://85.14.32.15:8800/udp/239.10.10.141:5000
+#EXTINF:-1,Bloomberg TV Bulgaria
+http://85.14.32.15:8800/udp/239.10.10.149:5000
+#EXTINF:-1,MTV Club
+http://85.14.32.15:8800/udp/239.10.10.160:5000
+#EXTINF:-1,CodeFashion TV HD
+http://85.14.32.15:8800/udp/239.10.10.144:5000
+#EXTINF:-1,Fox Crime HD
+http://85.14.32.15:8800/udp/239.10.10.138:5000
+#EXTINF:-1,BHTV
+http://85.14.32.15:8800/udp/239.10.10.159:5000
+#EXTINF:-1,English Club HD
+http://85.14.32.15:8800/udp/239.10.10.158:5000
+#EXTINF:-1,Eroxxx
+http://85.14.32.15:8800/udp/239.10.10.164:5000
+#EXTINF:-1,BNT 2 HD
+http://85.14.32.15:8800/udp/239.10.10.156:5000
+#EXTINF:-1,BNT 4
+http://85.14.32.15:8800/udp/239.10.10.157:5000
+#EXTINF:-1,NHK World TV HD
+http://85.14.32.15:8800/udp/239.10.10.153:5000
+#EXTINF:-1,FightBox HD
+http://85.14.32.15:8800/udp/239.10.10.167:5000
+#EXTINF:-1,CNN HD
+http://85.14.32.15:8800/udp/239.10.10.168:5000
+#EXTINF:-1,CBC Sport
+http://85.14.32.15:8800/udp/239.10.10.173:5000
+#EXTINF:-1,Nicktoons
+http://85.14.32.15:8800/udp/239.10.10.178:5000
+#EXTINF:-1,WnessTV HD
+http://85.14.32.15:8800/udp/239.10.10.162:5000
+#EXTINF:-1,Timeless Drama Channel
+http://85.14.32.15:8800/udp/239.10.10.186:5000
+#EXTINF:-1,Nostalgia
+http://85.14.32.15:8800/udp/239.10.10.177:5000
+#EXTINF:-1,EDGE Sport
+http://85.14.32.15:8800/udp/239.10.10.181:5000
+#EXTINF:-1,DocuBox HD
+http://85.14.32.15:8800/udp/239.10.10.166:5000
+#EXTINF:-1,EDGE Sport HD
+http://85.14.32.15:8800/udp/239.10.10.182:5000
+#EXTINF:-1,Diema Sport 3
+http://85.14.32.15:8800/udp/239.10.10.188:5000
+#EXTINF:-1,Diema Sport 3 HD
+http://85.14.32.15:8800/udp/239.10.10.189:5000
+#EXTINF:-1,Nostalgia HD
+http://85.14.32.15:8800/udp/239.10.10.187:5000
+#EXTINF:-1,DaVinci Learning CBR
+http://85.14.32.15:8800/udp/239.10.10.252:5000
+#EXTINF:-1,Magic TV CBR
+http://85.14.32.15:8800/udp/239.10.10.251:5000
+#EXTINF:-1,Детский Мир CBR
+http://85.14.32.15:8800/udp/239.10.10.250:5000
+#EXTINF:-1,CBS Reality CBR
+http://85.14.32.15:8800/udp/239.10.10.249:5000
+#EXTINF:-1,Karussel CBR
+http://85.14.32.15:8800/udp/239.10.10.253:5000
+#EXTINF:-1,C&I Network CBR
+http://85.14.32.15:8800/udp/239.10.10.248:5000
+#EXTINF:-1,Nicktoons CBR
+http://85.14.32.15:8800/udp/239.10.10.254:5000
+#EXTINF:-1,Dorcel TV HD
+http://85.14.32.15:8800/udp/239.10.10.155:5000
+#EXTINF:-1,b1b-box
+http://85.14.32.15:8800/udp/239.100.108.10:8888
+#EXTINF:-1,RT
+http://85.14.32.15:8800/udp/239.100.108.13:8888
+#EXTINF:-1,ZDFinfo HD
+http://85.14.32.15:8800/udp/239.100.108.3:8888
+#EXTINF:-1,3sat HD
+http://85.14.32.15:8800/udp/239.100.108.1:8888
+#EXTINF:-1,RT Doc HD
+http://85.14.32.15:8800/udp/239.100.108.14:8888
+#EXTINF:-1,KiKA HD
+http://85.14.32.15:8800/udp/239.100.108.2:8888
+#EXTINF:-1,Italian Fishing TV
+http://85.14.32.15:8800/udp/239.100.108.46:8888
+#EXTINF:-1,MS MOTORTV
+http://85.14.32.15:8800/udp/239.100.108.47:8888
+#EXTINF:-1,NTV Futbol 1
+http://85.14.32.15:8800/udp/239.100.108.100:8888
+#EXTINF:-1,NTV Futbol 2 HD
+http://85.14.32.15:8800/udp/239.100.108.101:8888
+#EXTINF:-1,NTV Futbol 3 HD
+http://85.14.32.15:8800/udp/239.100.108.102:8888
+#EXTINF:-1,Sports12 HD
+http://85.14.32.15:8800/udp/239.100.108.103:8888
