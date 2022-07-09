@@ -7,7 +7,64 @@ https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunkl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://h4.ustvgo.la/ABCNY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjIgMzoyODoyOSBQTSZoYXNoX3ZhbHVlPVhqMGVDRWNNWWZPQWRIbXlhNGs3ZVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
-
+#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="NHẬT BẢN", TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="NHẬT BẢN", Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="NHẬT BẢN", TBS TV
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="NHẬT BẢN", FUJI TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="NHẬT BẢN",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHẬT BẢN",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHẬT BẢN",NHK G
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="NHẬT BẢN",Animax (720p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/janimax_720/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.us" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NHẬT BẢN",Disney Channel (JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/disney_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="NHẬT BẢN",Disney Junior (JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (720p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_540/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (720p NewHome)
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="NHẬT BẢN",WOWOWライブ (720p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="NHẬT BẢN",WOWOWライブ (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_540/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="NHẬT BẢN",WOWOWシネマ (720p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowCinema.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="NHẬT BẢN",WOWOWシネマ (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_540/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="NHẬT BẢN",WOWOWプラス (720p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_720/playlist.m3u8
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="NHẬT BẢN",WOWOWプラス (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="NHẬT BẢN",Tokyo MX1 (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_tokyo_mx1_540/playlist.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="NHẬT BẢN",TV Tokyo (540p JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_tv_tokyo_540/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkJapan.us" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="NHẬT BẢN",Cartorn Network (JPNetTV US)
+http://cdn.us195.jpnettv.live:1935/jptv/cartoon_network/playlist.m3u8
 
 
 
