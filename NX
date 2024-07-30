@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1", MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
-#EXTINF:0 type="video" channelId="-1", PCA CIVICA
-https://hunq9fz8yk.zoeweb.tv/pracacivicapalacio/pracacivicapalacio.stream/chunklist_w1321264645.m3u8
+#EXTINF:0 type="video" channelId="-1", GALAVISION
+http://38.22.17.37:6969/stream/comcast/galavision/master.m3u8
