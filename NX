@@ -1,5 +1,113 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1", TV ANHANGUERA PALMAS
+https://live-anh-go-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYW5oLWdvLTAyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTcyMjk1NjI0OSwiaWF0IjoxNzIyODY5ODQ5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXBhbC9wbGF5bGlzdC5tM3U4In0.zHVdvAj3ou84qNvVq723jqELq_N5af6DmsRb8Fki5YUZPgDMj02rAzKxQbU25Wrj2p0lEfMtu2L_L_M8TXiO98wM7rHl0jJuwbvq_-mXhRAIer_0_dsOdk6BhgKacZVthHjPYHulh5Ab_mJCSZv8uurDO99C3z6h8vXChaBStI9JrJLjBcNbUuheBOyvi-Oc7vnlAGsfqw2XB1VmxniT_AIg4hheGvjkPr22V9ehXcAr83UKMwUYfDFH9vDlSdzoXN2DhSJJvONjiPOEuQW2d0ek9OX9laVu_JmyCZUCzbtGm45To5bZheeLuiapVip_H5yEGt7GaDMuV5PPLxKNWQ/nu/f(i=2)/globo-pal/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1", TV JOVEM PALMAS RECORD
+http://ythls.armelin.one/video/UXmN4Da2kZA.m3u8
 #EXTINF:0 type="video" channelId="-1", MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
-#EXTINF:0 type="video" channelId="-1", GALAVISION
-http://38.22.17.37:6969/stream/comcast/galavision/master.m3u8
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic
+https://abc.embedmax.site/nationalgeographic/index.m3u8
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet
+https://abc.embedmax.site/animalplanet/index.m3u8
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel
+https://abc.embedmax.site/discoverychannel/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",Discovery Science
+https://abc.embedmax.site/discoveryscience/index.m3u8
+#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="Channels",Discovery Theater
+https://abc.embedmax.site/discoverytheater/index.m3u8
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Channels",Discovery ID
+https://abc.embedmax.site/discoveryid/index.m3u8
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",Discovery World
+https://abc.embedmax.site/discoveryworld/index.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",Discovery H&H
+https://abc.embedmax.site/discoveryheh/index.m3u8
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History
+https://abc.embedmax.site/history/index.m3u8
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",History 2
+https://abc.embedmax.site/history2/index.m3u8
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO
+https://abc.embedmax.site/hbo/index.m3u8
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO2
+https://abc.embedmax.site/hbo2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO+
+https://abc.embedmax.site/hboplus/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO Xtreme
+https://abc.embedmax.site/hboxtreme/index.m3u8
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature
+https://abc.embedmax.site/hbosignature/index.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
+https://abc.embedmax.site/hbofamily/index.m3u8
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium
+https://abc.embedmax.site/tcpremium/index.m3u8
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action
+https://abc.embedmax.site/tcaction/index.m3u8
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca
+https://abc.embedmax.site/tcpipoca/index.m3u8
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",Telecine Fun
+https://abc.embedmax.site/tcfun/index.m3u8
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch
+https://abc.embedmax.site/tctouch/index.m3u8
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult
+https://abc.embedmax.site/tccult/index.m3u8
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix
+https://abc.embedmax.site/megapix/index.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
+https://abc.embedmax.site/space/index.m3u8
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",Cinemax
+https://abc.embedmax.site/cinemax/index.m3u8
+#EXTINF:0 tvg-id="UniversalChannel.ar" group-title="Channels",Universal TV
+https://abc.embedmax.site/universaltv/index.m3u8
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT
+https://abc.embedmax.site/tnt/index.m3u8
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount Network
+https://abc.embedmax.site/paramountnetwork/index.m3u8
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",Studio Universal
+https://abc.embedmax.site/studiouniversal/index.m3u8
+#EXTINF:0 tvg-id="StarChannel.br" group-title="Channels",Star Channel
+https://abc.embedmax.site/starchannel/index.m3u8
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E
+https://abc.embedmax.site/ae/index.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",Warner TV
+https://abc.embedmax.site/warnertv/index.m3u8
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",SyFy
+https://abc.embedmax.site/syfy/index.m3u8
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX
+https://abc.embedmax.site/fx/index.m3u8
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN
+https://abc.embedmax.site/axn/index.m3u8
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
+https://abc.embedmax.site/amc/index.m3u8
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere
+https://abc.embedmax.site/premiere1/index.m3u8
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2
+https://abc.embedmax.site/premiere2/index.m3u8
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3
+https://abc.embedmax.site/premiere3/index.m3u8
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4
+https://abc.embedmax.site/premiere4/index.m3u8
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",Sportv
+https://abc.embedmax.site/sportv1/index.m3u8
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",Sportv 2
+https://abc.embedmax.site/sportv2/index.m3u8
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",Sportv 3
+https://abc.embedmax.site/sportv3/index.m3u8
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN
+https://abc.embedmax.site/espn1/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.br" group-title="Channels",ESPN 2
+https://abc.embedmax.site/espn2/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.br" group-title="Channels",ESPN 3
+https://abc.embedmax.site/espn3/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4
+https://abc.embedmax.site/espn4/index.m3u8
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="Channels",ESPN 5
+https://abc.embedmax.site/espn5/index.m3u8
+#EXTINF:0 tvg-id="ESPN6.nl" group-title="Channels",ESPN 6
+https://abc.embedmax.site/espn6/index.m3u8
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP
+https://abc.embedmax.site/globoSP/index.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
+https://abc.embedmax.site/sbt/index.m3u8
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",Band
+https://abc.embedmax.site/band/index.m3u8
+#EXTINF:0 tvg-id="Recordsp.br" group-title="Channels",Record SP
+https://abc.embedmax.site/recordSP/index.m3u8
