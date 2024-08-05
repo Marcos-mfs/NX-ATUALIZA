@@ -111,3 +111,147 @@ https://abc.embedmax.site/sbt/index.m3u8
 https://abc.embedmax.site/band/index.m3u8
 #EXTINF:0 tvg-id="Recordsp.br" group-title="Channels",Record SP
 https://abc.embedmax.site/recordSP/index.m3u8
+#EXTINF:-0,Animal Planet 
+https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-0,Discovery 
+https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-0,Discovery Science
+https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:-0,Discovery Theater
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-0,Discovery ID
+https://cdn-4.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+#EXTINF:-0,Discovery World 
+https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-0,Discovery Turbo 
+https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+#EXTINF:-0,Discovery Home & Health
+https://cdn-4.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:-0,History 
+https://cdn-4.nxplay.com.br/HISTORY_TK/index.m3u8
+#EXTINF:-0,History 2 
+https://cdn-4.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:-0,HGTV
+https://cdn-4.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-0,TLC
+https://cdn-4.nxplay.com.br/TLC_BR_NX/index.m3u8
+#EXTINF:-0,Telecine Premium
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/307
+#EXTINF:-0,Telecine Action
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/294
+#EXTINF:-0,Telecine Fun
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/301
+#EXTINF:-0,Telecine Touch
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/310
+#EXTINF:-0,Telecine Pipoca
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/304
+#EXTINF:-0,Telecine Cult
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/298
+#EXTINF:-0,Space 
+https://cdn-4.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-0,TNT 
+https://cdn-4.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-0,TNT Séries
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+#EXTINF:-0,AMC 
+https://cdn-4.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-0,AXN 
+https://cdn-4.nxplay.com.br/AXN_TK/index.m3u8
+#EXTINF:-0,Lifetime
+https://cdn-4.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:-0,A&E
+https://cdn-4.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-0,Paramount
+http://cdn.connectbr.com.br/paramount/index.m3u8
+#EXTINF:-0,Sony Channel 
+https://cdn-4.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-0,Sony Movies 
+https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-0,HTO Filmes
+https://cdn-4.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:-0,Bora
+http://cdn.connectbr.com.br/Bora_Filmes/index.m3u8
+#EXTINF:-0,Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:-0,Adesso
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/index.m3u8
+#EXTINF:-0,Hallo Movies
+https://cdn-4.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:-0,Hallo Classic
+https://cdn-4.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:-0,Hallo Series
+https://cdn-4.nxplay.com.br/HALLOSERIES/index.m3u8
+#EXTINF:-0,Food Network
+https://cdn-4.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:-0,NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/index.m3u8
+#EXTINF:-0,Film & Arts 
+https://cdn-4.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:-0,Band Sports
+http://cdn.connectbr.com.br/Band-Sports/index.m3u8
+#EXTINF:-0,Espn
+https://cdn-4.nxplay.com.br/ESPN/index.m3u8
+#EXTINF:-0,Espn2
+https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8
+#EXTINF:-0,Espn3
+https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF:-0,Espn4
+https://cdn-4.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:-0,Globo 
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-0,SBT 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/index.m3u8
+#EXTINF:-0,Band 
+https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:-0,Record
+https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+#EXTINF:-0,Rede Tv
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/index.m3u8
+#EXTINF:-0,Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-0,CNN Brasil 
+https://cdn-4.nxplay.com.br/CNN_FAST/index.m3u8
+#EXTINF:-0,Band News
+https://cdn-4.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+#EXTINF:-0,24H News
+http://cdn.connectbr.com.br/24_news/index.m3u8
+#EXTINF:-0,Prime
+http://cdn-4.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:-0,Fish TV
+https://cdn-4.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+#EXTINF:-0,Cine Brasil
+https://cdn-4.nxplay.com.br/Cinebrasil/index.m3u8
+#EXTINF:-0,COM Brasil 
+https://cdn-4.nxplay.com.br/COM_BRASIL/index.m3u8
+#EXTINF:-0,Hello
+http://cdn.connectbr.com.br/Hello/index.m3u8
+#EXTINF:-0,Inspire
+http://cdn.connectbr.com.br/Inspire/index.m3u8
+#EXTINF:-0,Mosaico
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
+#EXTINF:-0,Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/index.m3u8
+#EXTINF:-0,Plena
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/index.m3u8
+#EXTINF:-0,BRA Music
+https://cdn-4.nxplay.com.br/BRAmusic_TK/index.m3u8
+#EXTINF:-0,Capital Tivu
+https://streamcdnn2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/index.m3u8
+#EXTINF:-0,Discovery Kids 
+https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-0,Cartoon Network 
+https://cdn-4.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:-0,Tooncast 
+https://cdn-4.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:-0,Zoomoo Kids 
+https://cdn-4.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+#EXTINF:-0,Nickelodeon 
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+#EXTINF:-0,Dreamworks
+https://cdn-4.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-0,Clubinho
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:-0,Candides
+https://cdn.jmvstream.com/w/LVW-8067/LVW8067_ZffQjxn7UC/index.m3u8
+#EXTINF:-0,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
